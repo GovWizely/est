@@ -1,0 +1,207 @@
+[
+  {
+    "regulation_id": 1,
+    "url": "https://www.epa.gov/laws-regulations/summary-clean-water-act",
+    "lang": "en",
+    "name": "Clean Water Act",
+    "solution_ids": [
+      7,
+      8,
+      9,
+      10,
+      11,
+      14,
+      15,
+      16,
+      17,
+      21,
+      22,
+      29,
+      30,
+      32,
+      38,
+      39,
+      50,
+      51,
+      59,
+      60,
+      61,
+      67,
+      69,
+      73,
+      76,
+      77,
+      91,
+      93,
+      94,
+      97
+    ]
+  },
+  {
+    "regulation_id": 2,
+    "url": "http://www.epa.gov/superfund/policy/cercla.htm",
+    "lang": "en",
+    "name": "Comprehensive Environmental Response, Compensation and Liability Act",
+    "solution_ids": [
+      7,
+      14,
+      17,
+      32,
+      38,
+      61,
+      67,
+      69,
+      73,
+      75
+    ]
+  },
+  {
+    "regulation_id": 3,
+    "url": "http://www.epa.gov/otaq/oceanvessels.htm",
+    "lang": "en",
+    "name": "Control of Emissions from New and In-Use Marine Engines and Vessels",
+    "solution_ids": [
+      33,
+      34,
+      35,
+      63,
+      64,
+      65,
+      66,
+      79
+    ]
+  },
+  {
+    "regulation_id": 4,
+    "url": "https://www3.epa.gov/crossstaterule/",
+    "lang": "en",
+    "name": "Cross-State Air Pollution Rule (CSAPR)",
+    "solution_ids": [
+      49,
+      78,
+      89,
+      90
+    ]
+  },
+  {
+    "regulation_id": 5,
+    "url": "http://www.epa.gov/mats/",
+    "lang": "en",
+    "name": "Mercury and Air Toxics Standards",
+    "solution_ids": [
+      2,
+      3,
+      4,
+      5,
+      26,
+      53,
+      54,
+      55,
+      56,
+      57,
+      62,
+      80,
+      95,
+      96
+    ]
+  },
+  {
+    "regulation_id": 6,
+    "url": "https://www.epa.gov/emission-standards-reference-guide",
+    "lang": "en",
+    "name": "Non-road Exhaust Emissions Standards",
+    "solution_ids": [
+      24,
+      25,
+      65,
+      81
+    ]
+  },
+  {
+    "regulation_id": 7,
+    "url": "https://www.epa.gov/dwreginfo/chemical-contaminant-rules",
+    "lang": "en",
+    "name": "Safe Drinking Water Act - Arsenic Rule",
+    "solution_ids": [
+      6,
+      40,
+      52,
+      70,
+      71,
+      85,
+      88
+    ]
+  },
+  {
+    "regulation_id": 8,
+    "url": "http://www.epa.gov/npdes/pubs/chapt_05.pdf",
+    "lang": "en",
+    "name": "Secondary Treatment Standards under the National Pollutant Discharge Elimination System (NPDES)",
+    "solution_ids": [
+      12,
+      37,
+      68,
+      72,
+      82
+    ]
+  },
+  {
+    "regulation_id": 9,
+    "url": "http://www.ecfr.gov/cgi-bin/text-idx?tpl=/ecfrbrowse/Title40/40cfr503_main_02.tpl",
+    "lang": "en",
+    "name": "Standards for the Use or Disposal of Sewage Sludge",
+    "solution_ids": [
+      18,
+      23,
+      27,
+      74,
+      87,
+      92,
+      98,
+      99
+    ]
+  },
+  {
+    "regulation_id": 10,
+    "url": "http://www.gpo.gov/fdsys/pkg/CFR-2012-title40-vol28/pdf/CFR-2012-title40-vol28-part273.pdf",
+    "lang": "en",
+    "name": "Standards for Universal Waste Management",
+    "solution_ids": [
+      20,
+      28,
+      41,
+      58,
+      86
+    ]
+  },
+  {
+    "regulation_id": 11,
+    "url": "http://www.gpo.gov/fdsys/pkg/CFR-2011-title40-vol6/xml/CFR-2011-title40-vol6-part60.xml",
+    "lang": "en",
+    "name": "Standards of Performance for New Stationary Sources: Landfills and Municipal Waste",
+    "solution_ids": [
+      13,
+      19,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      83
+    ]
+  },
+  {
+    "regulation_id": 12,
+    "url": "http://www.gpo.gov/fdsys/pkg/CFR-2011-title40-vol6/xml/CFR-2011-title40-vol6-part60.xml",
+    "lang": "en",
+    "name": "Standards of Performance for New Stationary Sources: Oil and Gas",
+    "solution_ids": [
+      1,
+      31,
+      36,
+      84
+    ]
+  }
+]

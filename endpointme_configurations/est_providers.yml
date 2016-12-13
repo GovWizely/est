@@ -1,0 +1,14 @@
+---
+_collection_path: "$[*]"
+provider_id:
+  source: provider_id
+  description: Description of provider_id
+  indexed: true
+  plural: true
+  type: enum
+name:
+  source: name
+  description: Description of name
+  indexed: false
+  plural: false
+  type: string

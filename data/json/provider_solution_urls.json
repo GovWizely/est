@@ -1,0 +1,2762 @@
+[
+  {
+    "provider_id": 1,
+    "solution_id": 86,
+    "url": "http://abcov.com/"
+  },
+  {
+    "provider_id": 2,
+    "solution_id": 53,
+    "url": "http://www.ada-cs.com"
+  },
+  {
+    "provider_id": 2,
+    "solution_id": 54,
+    "url": "http://www.ada-cs.com"
+  },
+  {
+    "provider_id": 2,
+    "solution_id": 56,
+    "url": "http://www.ada-cs.com"
+  },
+  {
+    "provider_id": 2,
+    "solution_id": 57,
+    "url": "http://www.ada-cs.com"
+  },
+  {
+    "provider_id": 3,
+    "solution_id": 2,
+    "url": "http://www.adaes.com"
+  },
+  {
+    "provider_id": 3,
+    "solution_id": 3,
+    "url": "http://www.adaes.com"
+  },
+  {
+    "provider_id": 3,
+    "solution_id": 4,
+    "url": "http://www.adaes.com"
+  },
+  {
+    "provider_id": 3,
+    "solution_id": 53,
+    "url": "http://www.adaes.com"
+  },
+  {
+    "provider_id": 3,
+    "solution_id": 54,
+    "url": "http://www.adaes.com"
+  },
+  {
+    "provider_id": 3,
+    "solution_id": 95,
+    "url": "http://www.adaes.com"
+  },
+  {
+    "provider_id": 4,
+    "solution_id": 7,
+    "url": "http://www.adanta-inc.com"
+  },
+  {
+    "provider_id": 4,
+    "solution_id": 14,
+    "url": "http://www.adanta-inc.com"
+  },
+  {
+    "provider_id": 4,
+    "solution_id": 38,
+    "url": "http://www.adanta-inc.com"
+  },
+  {
+    "provider_id": 4,
+    "solution_id": 61,
+    "url": "http://www.adanta-inc.com"
+  },
+  {
+    "provider_id": 4,
+    "solution_id": 69,
+    "url": "http://www.adanta-inc.com"
+  },
+  {
+    "provider_id": 4,
+    "solution_id": 73,
+    "url": "http://www.adanta-inc.com"
+  },
+  {
+    "provider_id": 4,
+    "solution_id": 79,
+    "url": "http://www.adanta-inc.com"
+  },
+  {
+    "provider_id": 5,
+    "solution_id": 7,
+    "url": "http://www.americanconsultants.com"
+  },
+  {
+    "provider_id": 5,
+    "solution_id": 8,
+    "url": "http://www.americanconsultants.com"
+  },
+  {
+    "provider_id": 5,
+    "solution_id": 9,
+    "url": "http://www.americanconsultants.com"
+  },
+  {
+    "provider_id": 5,
+    "solution_id": 10,
+    "url": "http://www.americanconsultants.com"
+  },
+  {
+    "provider_id": 5,
+    "solution_id": 11,
+    "url": "http://www.americanconsultants.com"
+  },
+  {
+    "provider_id": 5,
+    "solution_id": 14,
+    "url": "http://www.americanconsultants.com"
+  },
+  {
+    "provider_id": 5,
+    "solution_id": 15,
+    "url": "http://www.americanconsultants.com"
+  },
+  {
+    "provider_id": 5,
+    "solution_id": 16,
+    "url": "http://www.americanconsultants.com"
+  },
+  {
+    "provider_id": 5,
+    "solution_id": 17,
+    "url": "http://www.americanconsultants.com"
+  },
+  {
+    "provider_id": 5,
+    "solution_id": 21,
+    "url": "http://www.americanconsultants.com"
+  },
+  {
+    "provider_id": 5,
+    "solution_id": 22,
+    "url": "http://www.americanconsultants.com"
+  },
+  {
+    "provider_id": 5,
+    "solution_id": 29,
+    "url": "http://www.americanconsultants.com"
+  },
+  {
+    "provider_id": 5,
+    "solution_id": 30,
+    "url": "http://www.americanconsultants.com"
+  },
+  {
+    "provider_id": 5,
+    "solution_id": 32,
+    "url": "http://www.americanconsultants.com"
+  },
+  {
+    "provider_id": 5,
+    "solution_id": 38,
+    "url": "http://www.americanconsultants.com"
+  },
+  {
+    "provider_id": 5,
+    "solution_id": 39,
+    "url": "http://www.americanconsultants.com"
+  },
+  {
+    "provider_id": 5,
+    "solution_id": 50,
+    "url": "http://www.americanconsultants.com"
+  },
+  {
+    "provider_id": 5,
+    "solution_id": 51,
+    "url": "http://www.americanconsultants.com"
+  },
+  {
+    "provider_id": 5,
+    "solution_id": 59,
+    "url": "http://www.americanconsultants.com"
+  },
+  {
+    "provider_id": 5,
+    "solution_id": 60,
+    "url": "http://www.americanconsultants.com"
+  },
+  {
+    "provider_id": 5,
+    "solution_id": 61,
+    "url": "http://www.americanconsultants.com"
+  },
+  {
+    "provider_id": 5,
+    "solution_id": 67,
+    "url": "http://www.americanconsultants.com"
+  },
+  {
+    "provider_id": 5,
+    "solution_id": 69,
+    "url": "http://www.americanconsultants.com"
+  },
+  {
+    "provider_id": 5,
+    "solution_id": 73,
+    "url": "http://www.americanconsultants.com"
+  },
+  {
+    "provider_id": 5,
+    "solution_id": 77,
+    "url": "http://www.americanconsultants.com"
+  },
+  {
+    "provider_id": 5,
+    "solution_id": 91,
+    "url": "http://www.americanconsultants.com"
+  },
+  {
+    "provider_id": 5,
+    "solution_id": 93,
+    "url": "http://www.americanconsultants.com"
+  },
+  {
+    "provider_id": 5,
+    "solution_id": 94,
+    "url": "http://www.americanconsultants.com"
+  },
+  {
+    "provider_id": 5,
+    "solution_id": 97,
+    "url": "http://www.americanconsultants.com"
+  },
+  {
+    "provider_id": 6,
+    "solution_id": 41,
+    "url": "http://www.aircycle.com/"
+  },
+  {
+    "provider_id": 7,
+    "solution_id": 53,
+    "url": "http://www.albemarle.com/mercury"
+  },
+  {
+    "provider_id": 8,
+    "solution_id": 56,
+    "url": "http://www.alstom.com/power/coal-oil/air-quality-control-systems"
+  },
+  {
+    "provider_id": 8,
+    "solution_id": 57,
+    "url": "http://www.alstom.com/power/coal-oil/air-quality-control-systems"
+  },
+  {
+    "provider_id": 9,
+    "solution_id": 7,
+    "url": "http://www.amoed.com"
+  },
+  {
+    "provider_id": 9,
+    "solution_id": 14,
+    "url": "http://www.amoed.com"
+  },
+  {
+    "provider_id": 9,
+    "solution_id": 38,
+    "url": "http://www.amoed.com"
+  },
+  {
+    "provider_id": 9,
+    "solution_id": 61,
+    "url": "http://www.amoed.com"
+  },
+  {
+    "provider_id": 9,
+    "solution_id": 73,
+    "url": "http://www.amoed.com"
+  },
+  {
+    "provider_id": 10,
+    "solution_id": 7,
+    "url": "http://www.ams-samplers.com/"
+  },
+  {
+    "provider_id": 10,
+    "solution_id": 14,
+    "url": "http://www.ams-samplers.com/"
+  },
+  {
+    "provider_id": 10,
+    "solution_id": 17,
+    "url": "http://www.ams-samplers.com/"
+  },
+  {
+    "provider_id": 10,
+    "solution_id": 32,
+    "url": "http://www.ams-samplers.com/"
+  },
+  {
+    "provider_id": 10,
+    "solution_id": 73,
+    "url": "http://www.ams-samplers.com/"
+  },
+  {
+    "provider_id": 10,
+    "solution_id": 76,
+    "url": "http://www.ams-samplers.com/"
+  },
+  {
+    "provider_id": 11,
+    "solution_id": 46,
+    "url": "www.andalyze.com"
+  },
+  {
+    "provider_id": 11,
+    "solution_id": 72,
+    "url": "www.andalyze.com"
+  },
+  {
+    "provider_id": 11,
+    "solution_id": 75,
+    "url": "www.andalyze.com"
+  },
+  {
+    "provider_id": 11,
+    "solution_id": 76,
+    "url": "www.andalyze.com"
+  },
+  {
+    "provider_id": 12,
+    "solution_id": 2,
+    "url": "http://www.andovertechnology.com"
+  },
+  {
+    "provider_id": 12,
+    "solution_id": 3,
+    "url": "http://www.andovertechnology.com"
+  },
+  {
+    "provider_id": 12,
+    "solution_id": 4,
+    "url": "http://www.andovertechnology.com"
+  },
+  {
+    "provider_id": 12,
+    "solution_id": 5,
+    "url": "http://www.andovertechnology.com"
+  },
+  {
+    "provider_id": 12,
+    "solution_id": 26,
+    "url": "http://www.andovertechnology.com"
+  },
+  {
+    "provider_id": 12,
+    "solution_id": 33,
+    "url": "http://www.andovertechnology.com"
+  },
+  {
+    "provider_id": 12,
+    "solution_id": 34,
+    "url": "http://www.andovertechnology.com"
+  },
+  {
+    "provider_id": 12,
+    "solution_id": 35,
+    "url": "http://www.andovertechnology.com"
+  },
+  {
+    "provider_id": 12,
+    "solution_id": 53,
+    "url": "http://www.andovertechnology.com"
+  },
+  {
+    "provider_id": 12,
+    "solution_id": 54,
+    "url": "http://www.andovertechnology.com"
+  },
+  {
+    "provider_id": 12,
+    "solution_id": 56,
+    "url": "http://www.andovertechnology.com"
+  },
+  {
+    "provider_id": 12,
+    "solution_id": 57,
+    "url": "http://www.andovertechnology.com"
+  },
+  {
+    "provider_id": 12,
+    "solution_id": 62,
+    "url": "http://www.andovertechnology.com"
+  },
+  {
+    "provider_id": 12,
+    "solution_id": 63,
+    "url": "http://www.andovertechnology.com"
+  },
+  {
+    "provider_id": 12,
+    "solution_id": 64,
+    "url": "http://www.andovertechnology.com"
+  },
+  {
+    "provider_id": 12,
+    "solution_id": 65,
+    "url": "http://www.andovertechnology.com"
+  },
+  {
+    "provider_id": 12,
+    "solution_id": 66,
+    "url": "http://www.andovertechnology.com"
+  },
+  {
+    "provider_id": 12,
+    "solution_id": 95,
+    "url": "http://www.andovertechnology.com"
+  },
+  {
+    "provider_id": 12,
+    "solution_id": 96,
+    "url": "http://www.andovertechnology.com"
+  },
+  {
+    "provider_id": 13,
+    "solution_id": 1,
+    "url": "http://www.anguil.com/industries-served/petroleum-natural-gas.aspx"
+  },
+  {
+    "provider_id": 13,
+    "solution_id": 31,
+    "url": "http://www.anguil.com/industries-served/petroleum-natural-gas.aspx"
+  },
+  {
+    "provider_id": 13,
+    "solution_id": 36,
+    "url": "http://www.anguil.com/industries-served/petroleum-natural-gas.aspx"
+  },
+  {
+    "provider_id": 13,
+    "solution_id": 57,
+    "url": "http://www.anguil.com/oxidizers/catalytic-recuperative.aspx"
+  },
+  {
+    "provider_id": 13,
+    "solution_id": 61,
+    "url": "http://www.anguil.com/industries-served/remediation.aspx"
+  },
+  {
+    "provider_id": 13,
+    "solution_id": 65,
+    "url": "http://www.anguil.com/oxidizers/catalytic-recuperative.aspx"
+  },
+  {
+    "provider_id": 13,
+    "solution_id": 73,
+    "url": "http://www.anguil.com/industries-served/remediation.aspx"
+  },
+  {
+    "provider_id": 14,
+    "solution_id": 9,
+    "url": "http://www.aqua-aerobic.com"
+  },
+  {
+    "provider_id": 14,
+    "solution_id": 12,
+    "url": "http://www.aqua-aerobic.com"
+  },
+  {
+    "provider_id": 14,
+    "solution_id": 29,
+    "url": "http://www.aqua-aerobic.com"
+  },
+  {
+    "provider_id": 14,
+    "solution_id": 30,
+    "url": "http://www.aqua-aerobic.com"
+  },
+  {
+    "provider_id": 14,
+    "solution_id": 50,
+    "url": "http://www.aqua-aerobic.com"
+  },
+  {
+    "provider_id": 14,
+    "solution_id": 52,
+    "url": "http://www.aqua-aerobic.com"
+  },
+  {
+    "provider_id": 14,
+    "solution_id": 72,
+    "url": "http://www.aqua-aerobic.com"
+  },
+  {
+    "provider_id": 14,
+    "solution_id": 82,
+    "url": "http://www.aquaondemand.com/"
+  },
+  {
+    "provider_id": 14,
+    "solution_id": 91,
+    "url": "http://www.aqua-aerobic.com"
+  },
+  {
+    "provider_id": 14,
+    "solution_id": 97,
+    "url": "http://www.aqua-aerobic.com"
+  },
+  {
+    "provider_id": 15,
+    "solution_id": 9,
+    "url": "http://www.as-h.com"
+  },
+  {
+    "provider_id": 15,
+    "solution_id": 15,
+    "url": "http://www.as-h.com"
+  },
+  {
+    "provider_id": 15,
+    "solution_id": 16,
+    "url": "http://www.as-h.com"
+  },
+  {
+    "provider_id": 15,
+    "solution_id": 29,
+    "url": "http://www.as-h.com"
+  },
+  {
+    "provider_id": 15,
+    "solution_id": 30,
+    "url": "http://www.as-h.com"
+  },
+  {
+    "provider_id": 15,
+    "solution_id": 39,
+    "url": "http://www.as-h.com"
+  },
+  {
+    "provider_id": 15,
+    "solution_id": 50,
+    "url": "http://www.as-h.com"
+  },
+  {
+    "provider_id": 15,
+    "solution_id": 51,
+    "url": "http://www.as-h.com"
+  },
+  {
+    "provider_id": 15,
+    "solution_id": 59,
+    "url": "http://www.as-h.com"
+  },
+  {
+    "provider_id": 15,
+    "solution_id": 60,
+    "url": "http://www.as-h.com"
+  },
+  {
+    "provider_id": 15,
+    "solution_id": 91,
+    "url": "http://www.as-h.com"
+  },
+  {
+    "provider_id": 15,
+    "solution_id": 94,
+    "url": "http://www.as-h.com"
+  },
+  {
+    "provider_id": 15,
+    "solution_id": 97,
+    "url": "http://www.as-h.com"
+  },
+  {
+    "provider_id": 16,
+    "solution_id": 20,
+    "url": "http://www.almr.org/"
+  },
+  {
+    "provider_id": 16,
+    "solution_id": 28,
+    "url": "http://www.almr.org/"
+  },
+  {
+    "provider_id": 16,
+    "solution_id": 41,
+    "url": "http://www.almr.org/"
+  },
+  {
+    "provider_id": 16,
+    "solution_id": 53,
+    "url": "http://www.almr.org/"
+  },
+  {
+    "provider_id": 17,
+    "solution_id": 2,
+    "url": "http://www.babcock.com"
+  },
+  {
+    "provider_id": 17,
+    "solution_id": 3,
+    "url": "http://www.babcock.com"
+  },
+  {
+    "provider_id": 17,
+    "solution_id": 4,
+    "url": "http://www.babcock.com"
+  },
+  {
+    "provider_id": 17,
+    "solution_id": 5,
+    "url": "http://www.babcock.com"
+  },
+  {
+    "provider_id": 17,
+    "solution_id": 26,
+    "url": "http://www.babcock.com"
+  },
+  {
+    "provider_id": 17,
+    "solution_id": 53,
+    "url": "http://www.babcock.com"
+  },
+  {
+    "provider_id": 17,
+    "solution_id": 54,
+    "url": "http://www.babcock.com"
+  },
+  {
+    "provider_id": 17,
+    "solution_id": 56,
+    "url": "http://www.babcock.com"
+  },
+  {
+    "provider_id": 17,
+    "solution_id": 57,
+    "url": "http://www.babcock.com"
+  },
+  {
+    "provider_id": 17,
+    "solution_id": 62,
+    "url": "http://www.babcock.com"
+  },
+  {
+    "provider_id": 17,
+    "solution_id": 95,
+    "url": "http://www.babcock.com"
+  },
+  {
+    "provider_id": 17,
+    "solution_id": 96,
+    "url": "http://www.babcock.com"
+  },
+  {
+    "provider_id": 18,
+    "solution_id": 53,
+    "url": "http://www.catalysts.basf.com/p02/USWeb-Internet/catalysts/en/content/microsites/catalysts/prods-inds/stationary-emissions/mercury-sorbents"
+  },
+  {
+    "provider_id": 18,
+    "solution_id": 54,
+    "url": "http://www.catalysts.basf.com/p02/USWeb-Internet/catalysts/en/content/microsites/catalysts/prods-inds/stationary-emissions/mercury-sorbents"
+  },
+  {
+    "provider_id": 19,
+    "solution_id": 8,
+    "url": "http://biocleaner.com/"
+  },
+  {
+    "provider_id": 19,
+    "solution_id": 11,
+    "url": "http://biocleaner.com/"
+  },
+  {
+    "provider_id": 19,
+    "solution_id": 21,
+    "url": "http://biocleaner.com/"
+  },
+  {
+    "provider_id": 19,
+    "solution_id": 29,
+    "url": "http://biocleaner.com/"
+  },
+  {
+    "provider_id": 19,
+    "solution_id": 77,
+    "url": "http://biocleaner.com/"
+  },
+  {
+    "provider_id": 20,
+    "solution_id": 14,
+    "url": "http://www.bioremediationservices.com"
+  },
+  {
+    "provider_id": 21,
+    "solution_id": 8,
+    "url": "http://www.brentwoodindustries.com"
+  },
+  {
+    "provider_id": 21,
+    "solution_id": 9,
+    "url": "http://www.brentwoodindustries.com"
+  },
+  {
+    "provider_id": 21,
+    "solution_id": 10,
+    "url": "http://www.brentwoodindustries.com"
+  },
+  {
+    "provider_id": 21,
+    "solution_id": 11,
+    "url": "http://www.brentwoodindustries.com"
+  },
+  {
+    "provider_id": 21,
+    "solution_id": 12,
+    "url": "http://www.brentwoodindustries.com"
+  },
+  {
+    "provider_id": 21,
+    "solution_id": 21,
+    "url": "http://www.brentwoodindustries.com"
+  },
+  {
+    "provider_id": 21,
+    "solution_id": 22,
+    "url": "http://www.brentwoodindustries.com"
+  },
+  {
+    "provider_id": 21,
+    "solution_id": 39,
+    "url": "http://www.brentwoodindustries.com"
+  },
+  {
+    "provider_id": 21,
+    "solution_id": 59,
+    "url": "http://www.brentwoodindustries.com"
+  },
+  {
+    "provider_id": 21,
+    "solution_id": 68,
+    "url": "http://www.brentwoodindustries.com"
+  },
+  {
+    "provider_id": 21,
+    "solution_id": 93,
+    "url": "http://www.brentwoodindustries.com"
+  },
+  {
+    "provider_id": 21,
+    "solution_id": 97,
+    "url": "http://www.brentwoodindustries.com"
+  },
+  {
+    "provider_id": 21,
+    "solution_id": 99,
+    "url": "http://www.brentwoodindustries.com"
+  },
+  {
+    "provider_id": 22,
+    "solution_id": 6,
+    "url": "http://www.calgoncarbon.com/markets_and_applications/drinkingwater "
+  },
+  {
+    "provider_id": 22,
+    "solution_id": 17,
+    "url": "http://www.calgoncarbon.com"
+  },
+  {
+    "provider_id": 22,
+    "solution_id": 40,
+    "url": "http://www.calgoncarbon.com/products/ion_exchange_technologies "
+  },
+  {
+    "provider_id": 22,
+    "solution_id": 53,
+    "url": "http://www.calgoncarbon.com/markets_and_applications/mercury_removal "
+  },
+  {
+    "provider_id": 22,
+    "solution_id": 54,
+    "url": "http://www.calgoncarbon.com/markets_and_applications/mercury_removal "
+  },
+  {
+    "provider_id": 22,
+    "solution_id": 55,
+    "url": "http://www.calgoncarbon.com/markets_and_applications/mercury_removal "
+  },
+  {
+    "provider_id": 22,
+    "solution_id": 56,
+    "url": "http://www.calgoncarbon.com/markets_and_applications/mercury_removal "
+  },
+  {
+    "provider_id": 22,
+    "solution_id": 68,
+    "url": "http://www.calgoncarbon.com/markets_and_applications/wastewater "
+  },
+  {
+    "provider_id": 22,
+    "solution_id": 73,
+    "url": "http://www.calgoncarbon.com"
+  },
+  {
+    "provider_id": 22,
+    "solution_id": 78,
+    "url": "http://www.calgoncarbon.com/markets_and_applications/mercury_removal "
+  },
+  {
+    "provider_id": 22,
+    "solution_id": 80,
+    "url": "http://www.calgoncarbon.com/markets_and_applications/mercury_removal "
+  },
+  {
+    "provider_id": 22,
+    "solution_id": 84,
+    "url": "http://www.calgoncarbon.com/markets_and_applications/mercury_removal "
+  },
+  {
+    "provider_id": 22,
+    "solution_id": 92,
+    "url": "http://www.calgoncarbon.com/products/activated_carbon_adsorption "
+  },
+  {
+    "provider_id": 23,
+    "solution_id": 7,
+    "url": "http://www.cardnoeri.com"
+  },
+  {
+    "provider_id": 23,
+    "solution_id": 14,
+    "url": "http://www.cardnoeri.com"
+  },
+  {
+    "provider_id": 23,
+    "solution_id": 17,
+    "url": "http://www.cardnoeri.com"
+  },
+  {
+    "provider_id": 23,
+    "solution_id": 32,
+    "url": "http://www.cardnoeri.com"
+  },
+  {
+    "provider_id": 23,
+    "solution_id": 38,
+    "url": "http://www.cardnoeri.com"
+  },
+  {
+    "provider_id": 23,
+    "solution_id": 61,
+    "url": "http://www.cardnoeri.com"
+  },
+  {
+    "provider_id": 23,
+    "solution_id": 73,
+    "url": "http://www.cardnoeri.com"
+  },
+  {
+    "provider_id": 24,
+    "solution_id": 13,
+    "url": "http://cdmsmith.com/"
+  },
+  {
+    "provider_id": 24,
+    "solution_id": 19,
+    "url": "http://cdmsmith.com/"
+  },
+  {
+    "provider_id": 24,
+    "solution_id": 42,
+    "url": "http://cdmsmith.com/"
+  },
+  {
+    "provider_id": 24,
+    "solution_id": 43,
+    "url": "http://cdmsmith.com/"
+  },
+  {
+    "provider_id": 24,
+    "solution_id": 44,
+    "url": "http://cdmsmith.com/"
+  },
+  {
+    "provider_id": 24,
+    "solution_id": 45,
+    "url": "http://cdmsmith.com/"
+  },
+  {
+    "provider_id": 24,
+    "solution_id": 46,
+    "url": "http://cdmsmith.com/"
+  },
+  {
+    "provider_id": 24,
+    "solution_id": 47,
+    "url": "http://cdmsmith.com/"
+  },
+  {
+    "provider_id": 24,
+    "solution_id": 48,
+    "url": "http://cdmsmith.com/"
+  },
+  {
+    "provider_id": 25,
+    "solution_id": 78,
+    "url": "http://www.chengpower.com/"
+  },
+  {
+    "provider_id": 26,
+    "solution_id": 57,
+    "url": "http://www.cormetech.com"
+  },
+  {
+    "provider_id": 26,
+    "solution_id": 65,
+    "url": "http://www.cormetech.com"
+  },
+  {
+    "provider_id": 27,
+    "solution_id": 21,
+    "url": "http://www.daisanalytic.com"
+  },
+  {
+    "provider_id": 27,
+    "solution_id": 22,
+    "url": "http://www.daisanalytic.com"
+  },
+  {
+    "provider_id": 27,
+    "solution_id": 30,
+    "url": "http://www.daisanalytic.com"
+  },
+  {
+    "provider_id": 27,
+    "solution_id": 32,
+    "url": "http://www.daisanalytic.com"
+  },
+  {
+    "provider_id": 27,
+    "solution_id": 51,
+    "url": "http://www.daisanalytic.com"
+  },
+  {
+    "provider_id": 27,
+    "solution_id": 61,
+    "url": "http://www.daisanalytic.com"
+  },
+  {
+    "provider_id": 27,
+    "solution_id": 73,
+    "url": "http://www.daisanalytic.com"
+  },
+  {
+    "provider_id": 27,
+    "solution_id": 80,
+    "url": "http://www.daisanalytic.com"
+  },
+  {
+    "provider_id": 27,
+    "solution_id": 97,
+    "url": "http://www.daisanalytic.com"
+  },
+  {
+    "provider_id": 28,
+    "solution_id": 24,
+    "url": "http://www.dcl-inc.com"
+  },
+  {
+    "provider_id": 28,
+    "solution_id": 25,
+    "url": "http://www.dcl-inc.com"
+  },
+  {
+    "provider_id": 28,
+    "solution_id": 64,
+    "url": "http://www.dcl-inc.com"
+  },
+  {
+    "provider_id": 29,
+    "solution_id": 78,
+    "url": "http://www.durag.com/measuring_systems.asp"
+  },
+  {
+    "provider_id": 29,
+    "solution_id": 80,
+    "url": "http://www.durag.com/measuring_systems.asp"
+  },
+  {
+    "provider_id": 29,
+    "solution_id": 84,
+    "url": "http://www.durag.com/measuring_systems.asp"
+  },
+  {
+    "provider_id": 30,
+    "solution_id": 27,
+    "url": "http://www.durr-cleantechnology.com/clean-technology-systems-products/exhaust-air-treatment/thermal-oxidation/ecopure-var/ "
+  },
+  {
+    "provider_id": 30,
+    "solution_id": 42,
+    "url": "http://www.durr-cleantechnology.com/clean-technology-systems-products/exhaust-air-treatment/thermal-oxidation/ecopure-var/ "
+  },
+  {
+    "provider_id": 30,
+    "solution_id": 83,
+    "url": "http://www.durr-cleantechnology.com/clean-technology-systems-products/exhaust-air-treatment/thermal-oxidation/ecopure-var/ "
+  },
+  {
+    "provider_id": 30,
+    "solution_id": 84,
+    "url": "http://www.durr-cleantechnology.com/clean-technology-systems-products/exhaust-air-treatment/thermal-oxidation/ecopure-var/ "
+  },
+  {
+    "provider_id": 31,
+    "solution_id": 32,
+    "url": "http://www.eco-tec-inc.com"
+  },
+  {
+    "provider_id": 31,
+    "solution_id": 61,
+    "url": "http://www.eco-tec-inc.com"
+  },
+  {
+    "provider_id": 31,
+    "solution_id": 67,
+    "url": "http://www.eco-tec-inc.com"
+  },
+  {
+    "provider_id": 31,
+    "solution_id": 73,
+    "url": "http://www.eco-tec-inc.com"
+  },
+  {
+    "provider_id": 32,
+    "solution_id": 12,
+    "url": "http://entexinc.com/challenges/bnr"
+  },
+  {
+    "provider_id": 32,
+    "solution_id": 30,
+    "url": "http://entexinc.com/solutions/flowtex"
+  },
+  {
+    "provider_id": 32,
+    "solution_id": 39,
+    "url": "http://entexinc.com/solutions/ifas"
+  },
+  {
+    "provider_id": 32,
+    "solution_id": 60,
+    "url": "http://entexinc.com/solutions/bioportz"
+  },
+  {
+    "provider_id": 32,
+    "solution_id": 72,
+    "url": "http://entexinc.com"
+  },
+  {
+    "provider_id": 32,
+    "solution_id": 97,
+    "url": "http://entexinc.com/solutions/flowtex"
+  },
+  {
+    "provider_id": 33,
+    "solution_id": 76,
+    "url": "http://www.environcorp.com/environment/water-resources.aspx"
+  },
+  {
+    "provider_id": 33,
+    "solution_id": 77,
+    "url": "http://www.environcorp.com/environment/water-resources.aspx"
+  },
+  {
+    "provider_id": 33,
+    "solution_id": 78,
+    "url": "http://www.environcorp.com/health/air-quality-management.aspx"
+  },
+  {
+    "provider_id": 33,
+    "solution_id": 79,
+    "url": "http://www.environcorp.com/facilities/air-quality-management.aspx\r\n"
+  },
+  {
+    "provider_id": 33,
+    "solution_id": 80,
+    "url": "http://www.environcorp.com/environment.aspx "
+  },
+  {
+    "provider_id": 33,
+    "solution_id": 81,
+    "url": "http://www.environcorp.com/health/air-quality-management.aspx"
+  },
+  {
+    "provider_id": 33,
+    "solution_id": 82,
+    "url": "http://www.environcorp.com/environment/water-resources.aspx"
+  },
+  {
+    "provider_id": 33,
+    "solution_id": 83,
+    "url": "http://www.environcorp.com/environment/sustainability.aspx"
+  },
+  {
+    "provider_id": 33,
+    "solution_id": 84,
+    "url": "http://www.environcorp.com/health/air-quality-management.aspx"
+  },
+  {
+    "provider_id": 33,
+    "solution_id": 85,
+    "url": "http://www.environcorp.com/environment/water-resources.aspx"
+  },
+  {
+    "provider_id": 33,
+    "solution_id": 86,
+    "url": "http://www.environcorp.com/environment/sustainability.aspx"
+  },
+  {
+    "provider_id": 33,
+    "solution_id": 87,
+    "url": "http://www.environcorp.com/environment/sustainability.aspx"
+  },
+  {
+    "provider_id": 34,
+    "solution_id": 24,
+    "url": "http://www.environex.com"
+  },
+  {
+    "provider_id": 35,
+    "solution_id": 24,
+    "url": "http://www.ect-catalyst.com"
+  },
+  {
+    "provider_id": 35,
+    "solution_id": 25,
+    "url": "http://www.ect-catalyst.com"
+  },
+  {
+    "provider_id": 36,
+    "solution_id": 14,
+    "url": "http://www.eosenvironmental.com"
+  },
+  {
+    "provider_id": 36,
+    "solution_id": 77,
+    "url": "http://www.eosenvironmental.com"
+  },
+  {
+    "provider_id": 37,
+    "solution_id": 25,
+    "url": "http://eswgroup.com/"
+  },
+  {
+    "provider_id": 37,
+    "solution_id": 81,
+    "url": "http://eswgroup.com/"
+  },
+  {
+    "provider_id": 38,
+    "solution_id": 5,
+    "url": "http://www.epconlp.com/air-pollution-control-systems/voc-abatement.php"
+  },
+  {
+    "provider_id": 38,
+    "solution_id": 45,
+    "url": "http://www.epconlp.com/air-pollution-control-systems/voc-abatement.php"
+  },
+  {
+    "provider_id": 38,
+    "solution_id": 63,
+    "url": "http://www.epconlp.com/air-pollution-control-systems/nox-abatement.php"
+  },
+  {
+    "provider_id": 38,
+    "solution_id": 64,
+    "url": "http://www.epconlp.com/air-pollution-control-systems/nox-abatement.php"
+  },
+  {
+    "provider_id": 38,
+    "solution_id": 84,
+    "url": "http://www.epconlp.com/air-pollution-control-systems/voc-abatement.php"
+  },
+  {
+    "provider_id": 39,
+    "solution_id": 24,
+    "url": "http://www.eswgroup.com"
+  },
+  {
+    "provider_id": 39,
+    "solution_id": 25,
+    "url": "http://www.eswgroup.com"
+  },
+  {
+    "provider_id": 40,
+    "solution_id": 7,
+    "url": "http://www.etecllc.com/"
+  },
+  {
+    "provider_id": 40,
+    "solution_id": 14,
+    "url": "http://www.etecllc.com/"
+  },
+  {
+    "provider_id": 40,
+    "solution_id": 17,
+    "url": "http://www.etecllc.com/"
+  },
+  {
+    "provider_id": 40,
+    "solution_id": 32,
+    "url": "http://www.etecllc.com/"
+  },
+  {
+    "provider_id": 40,
+    "solution_id": 38,
+    "url": "http://www.etecllc.com/"
+  },
+  {
+    "provider_id": 40,
+    "solution_id": 61,
+    "url": "http://www.etecllc.com/"
+  },
+  {
+    "provider_id": 40,
+    "solution_id": 67,
+    "url": "http://www.etecllc.com/"
+  },
+  {
+    "provider_id": 40,
+    "solution_id": 73,
+    "url": "http://www.etecllc.com/"
+  },
+  {
+    "provider_id": 40,
+    "solution_id": 76,
+    "url": "http://www.etecllc.com"
+  },
+  {
+    "provider_id": 41,
+    "solution_id": 45,
+    "url": "http://www.firmgreen.com/"
+  },
+  {
+    "provider_id": 41,
+    "solution_id": 83,
+    "url": "http://www.firmgreen.com/"
+  },
+  {
+    "provider_id": 42,
+    "solution_id": 75,
+    "url": "http://www.flut.com"
+  },
+  {
+    "provider_id": 43,
+    "solution_id": 17,
+    "url": "http://www.flowserve.com/"
+  },
+  {
+    "provider_id": 43,
+    "solution_id": 32,
+    "url": "http://www.flowserve.com/"
+  },
+  {
+    "provider_id": 43,
+    "solution_id": 73,
+    "url": "http://www.flowserve.com/"
+  },
+  {
+    "provider_id": 44,
+    "solution_id": 13,
+    "url": "http://www.geosyntec.com/"
+  },
+  {
+    "provider_id": 44,
+    "solution_id": 19,
+    "url": "http://www.geosyntec.com/"
+  },
+  {
+    "provider_id": 44,
+    "solution_id": 42,
+    "url": "http://www.geosyntec.com/"
+  },
+  {
+    "provider_id": 44,
+    "solution_id": 43,
+    "url": "http://www.geosyntec.com/"
+  },
+  {
+    "provider_id": 44,
+    "solution_id": 44,
+    "url": "http://www.geosyntec.com/"
+  },
+  {
+    "provider_id": 44,
+    "solution_id": 45,
+    "url": "http://www.geosyntec.com/"
+  },
+  {
+    "provider_id": 44,
+    "solution_id": 46,
+    "url": "http://www.geosyntec.com/"
+  },
+  {
+    "provider_id": 44,
+    "solution_id": 47,
+    "url": "http://www.geosyntec.com/"
+  },
+  {
+    "provider_id": 44,
+    "solution_id": 48,
+    "url": "http://www.geosyntec.com/"
+  },
+  {
+    "provider_id": 45,
+    "solution_id": 7,
+    "url": "http://www.geotechenv.com/"
+  },
+  {
+    "provider_id": 45,
+    "solution_id": 14,
+    "url": "http://www.geotechenv.com/"
+  },
+  {
+    "provider_id": 45,
+    "solution_id": 17,
+    "url": "http://www.geotechenv.com/"
+  },
+  {
+    "provider_id": 45,
+    "solution_id": 32,
+    "url": "http://www.geotechenv.com/"
+  },
+  {
+    "provider_id": 45,
+    "solution_id": 38,
+    "url": "http://www.geotechenv.com/"
+  },
+  {
+    "provider_id": 45,
+    "solution_id": 61,
+    "url": "http://www.geotechenv.com/"
+  },
+  {
+    "provider_id": 45,
+    "solution_id": 67,
+    "url": "http://www.geotechenv.com/"
+  },
+  {
+    "provider_id": 45,
+    "solution_id": 68,
+    "url": "http://www.geotechenv.com/"
+  },
+  {
+    "provider_id": 45,
+    "solution_id": 69,
+    "url": "http://www.geotechenv.com/  "
+  },
+  {
+    "provider_id": 45,
+    "solution_id": 72,
+    "url": "http://www.geotechenv.com/"
+  },
+  {
+    "provider_id": 45,
+    "solution_id": 73,
+    "url": "http://www.geotechenv.com/"
+  },
+  {
+    "provider_id": 45,
+    "solution_id": 76,
+    "url": "http://www.geotechenv.com"
+  },
+  {
+    "provider_id": 46,
+    "solution_id": 40,
+    "url": "www.globalsplashinc.com"
+  },
+  {
+    "provider_id": 46,
+    "solution_id": 68,
+    "url": "http://www.globalsplashinc.com/"
+  },
+  {
+    "provider_id": 47,
+    "solution_id": 7,
+    "url": "http://www.groundwateressentials.com"
+  },
+  {
+    "provider_id": 47,
+    "solution_id": 14,
+    "url": "http://www.groundwateressentials.com"
+  },
+  {
+    "provider_id": 47,
+    "solution_id": 17,
+    "url": "http://www.groundwateressentials.com"
+  },
+  {
+    "provider_id": 47,
+    "solution_id": 32,
+    "url": "http://www.groundwateressentials.com"
+  },
+  {
+    "provider_id": 47,
+    "solution_id": 38,
+    "url": "http://www.groundwateressentials.com"
+  },
+  {
+    "provider_id": 47,
+    "solution_id": 61,
+    "url": "http://www.groundwateressentials.com"
+  },
+  {
+    "provider_id": 47,
+    "solution_id": 67,
+    "url": "http://www.groundwateressentials.com"
+  },
+  {
+    "provider_id": 47,
+    "solution_id": 69,
+    "url": "http://www.groundwateressentials.com"
+  },
+  {
+    "provider_id": 47,
+    "solution_id": 73,
+    "url": "http://www.groundwateressentials.com"
+  },
+  {
+    "provider_id": 48,
+    "solution_id": 23,
+    "url": "http://gsmfiltration.com/"
+  },
+  {
+    "provider_id": 48,
+    "solution_id": 30,
+    "url": "http://gsmfiltration.com/"
+  },
+  {
+    "provider_id": 48,
+    "solution_id": 96,
+    "url": "http://gsmfiltration.com/"
+  },
+  {
+    "provider_id": 48,
+    "solution_id": 99,
+    "url": "http://gsmfiltration.com/"
+  },
+  {
+    "provider_id": 49,
+    "solution_id": 72,
+    "url": "http://www.hach.com/wastewater\r\n"
+  },
+  {
+    "provider_id": 49,
+    "solution_id": 75,
+    "url": "http://www.hach.com/"
+  },
+  {
+    "provider_id": 49,
+    "solution_id": 76,
+    "url": "http://www.hach.com/"
+  },
+  {
+    "provider_id": 49,
+    "solution_id": 77,
+    "url": "http://www.hach.com/wastewater\r\n"
+  },
+  {
+    "provider_id": 49,
+    "solution_id": 82,
+    "url": "http://www.hach.com/wastewater\r\n"
+  },
+  {
+    "provider_id": 49,
+    "solution_id": 85,
+    "url": "http://www.hach.com/\r\n"
+  },
+  {
+    "provider_id": 49,
+    "solution_id": 87,
+    "url": "http://www.hach.com/wastewater\r\n"
+  },
+  {
+    "provider_id": 50,
+    "solution_id": 6,
+    "url": "http://www.hazenandsawyer.com"
+  },
+  {
+    "provider_id": 50,
+    "solution_id": 8,
+    "url": "http://www.hazenandsawyer.com"
+  },
+  {
+    "provider_id": 50,
+    "solution_id": 9,
+    "url": "http://www.hazenandsawyer.com"
+  },
+  {
+    "provider_id": 50,
+    "solution_id": 10,
+    "url": "http://www.hazenandsawyer.com"
+  },
+  {
+    "provider_id": 50,
+    "solution_id": 11,
+    "url": "http://www.hazenandsawyer.com"
+  },
+  {
+    "provider_id": 50,
+    "solution_id": 12,
+    "url": "http://www.hazenandsawyer.com"
+  },
+  {
+    "provider_id": 50,
+    "solution_id": 15,
+    "url": "http://www.hazenandsawyer.com"
+  },
+  {
+    "provider_id": 50,
+    "solution_id": 16,
+    "url": "http://www.hazenandsawyer.com"
+  },
+  {
+    "provider_id": 50,
+    "solution_id": 18,
+    "url": "http://www.hazenandsawyer.com"
+  },
+  {
+    "provider_id": 50,
+    "solution_id": 21,
+    "url": "http://www.hazenandsawyer.com"
+  },
+  {
+    "provider_id": 50,
+    "solution_id": 22,
+    "url": "http://www.hazenandsawyer.com"
+  },
+  {
+    "provider_id": 50,
+    "solution_id": 23,
+    "url": "http://www.hazenandsawyer.com"
+  },
+  {
+    "provider_id": 50,
+    "solution_id": 27,
+    "url": "http://www.hazenandsawyer.com"
+  },
+  {
+    "provider_id": 50,
+    "solution_id": 29,
+    "url": "http://www.hazenandsawyer.com"
+  },
+  {
+    "provider_id": 50,
+    "solution_id": 30,
+    "url": "http://www.hazenandsawyer.com"
+  },
+  {
+    "provider_id": 50,
+    "solution_id": 37,
+    "url": "http://www.hazenandsawyer.com"
+  },
+  {
+    "provider_id": 50,
+    "solution_id": 39,
+    "url": "http://www.hazenandsawyer.com"
+  },
+  {
+    "provider_id": 50,
+    "solution_id": 40,
+    "url": "http://www.hazenandsawyer.com"
+  },
+  {
+    "provider_id": 50,
+    "solution_id": 50,
+    "url": "http://www.hazenandsawyer.com"
+  },
+  {
+    "provider_id": 50,
+    "solution_id": 51,
+    "url": "http://www.hazenandsawyer.com"
+  },
+  {
+    "provider_id": 50,
+    "solution_id": 52,
+    "url": "http://www.hazenandsawyer.com"
+  },
+  {
+    "provider_id": 50,
+    "solution_id": 59,
+    "url": "http://www.hazenandsawyer.com"
+  },
+  {
+    "provider_id": 50,
+    "solution_id": 60,
+    "url": "http://www.hazenandsawyer.com"
+  },
+  {
+    "provider_id": 50,
+    "solution_id": 68,
+    "url": "http://www.hazenandsawyer.com"
+  },
+  {
+    "provider_id": 50,
+    "solution_id": 70,
+    "url": "http://www.hazenandsawyer.com"
+  },
+  {
+    "provider_id": 50,
+    "solution_id": 71,
+    "url": "http://www.hazenandsawyer.com"
+  },
+  {
+    "provider_id": 50,
+    "solution_id": 72,
+    "url": "http://www.hazenandsawyer.com"
+  },
+  {
+    "provider_id": 50,
+    "solution_id": 74,
+    "url": "http://www.hazenandsawyer.com"
+  },
+  {
+    "provider_id": 50,
+    "solution_id": 77,
+    "url": "http://www.hazenandsawyer.com"
+  },
+  {
+    "provider_id": 50,
+    "solution_id": 82,
+    "url": "http://www.hazenandsawyer.com"
+  },
+  {
+    "provider_id": 50,
+    "solution_id": 85,
+    "url": "http://www.hazenandsawyer.com"
+  },
+  {
+    "provider_id": 50,
+    "solution_id": 87,
+    "url": "http://www.hazenandsawyer.com"
+  },
+  {
+    "provider_id": 50,
+    "solution_id": 88,
+    "url": "http://www.hazenandsawyer.com"
+  },
+  {
+    "provider_id": 50,
+    "solution_id": 91,
+    "url": "http://www.hazenandsawyer.com"
+  },
+  {
+    "provider_id": 50,
+    "solution_id": 92,
+    "url": "http://www.hazenandsawyer.com"
+  },
+  {
+    "provider_id": 50,
+    "solution_id": 93,
+    "url": "http://www.hazenandsawyer.com"
+  },
+  {
+    "provider_id": 50,
+    "solution_id": 94,
+    "url": "http://www.hazenandsawyer.com"
+  },
+  {
+    "provider_id": 50,
+    "solution_id": 97,
+    "url": "http://www.hazenandsawyer.com"
+  },
+  {
+    "provider_id": 50,
+    "solution_id": 98,
+    "url": "http://www.hazenandsawyer.com"
+  },
+  {
+    "provider_id": 50,
+    "solution_id": 99,
+    "url": "http://www.hazenandsawyer.com"
+  },
+  {
+    "provider_id": 51,
+    "solution_id": 63,
+    "url": "http://www.hnogreenfuels.com"
+  },
+  {
+    "provider_id": 51,
+    "solution_id": 65,
+    "url": "http://www.hnogreenfuels.com"
+  },
+  {
+    "provider_id": 52,
+    "solution_id": 24,
+    "url": "http://www.hypercat-acp.com"
+  },
+  {
+    "provider_id": 53,
+    "solution_id": 63,
+    "url": "http://www.hypercat-acp.com"
+  },
+  {
+    "provider_id": 53,
+    "solution_id": 64,
+    "url": "http://www.hypercat-acp.com"
+  },
+  {
+    "provider_id": 53,
+    "solution_id": 65,
+    "url": "http://www.hypercat-acp.com"
+  },
+  {
+    "provider_id": 54,
+    "solution_id": 7,
+    "url": "http://www.in-situ.com/applications/remediation"
+  },
+  {
+    "provider_id": 54,
+    "solution_id": 14,
+    "url": "http://www.in-situ.com/applications/remediation"
+  },
+  {
+    "provider_id": 54,
+    "solution_id": 17,
+    "url": "http://www.in-situ.com/applications/remediation"
+  },
+  {
+    "provider_id": 54,
+    "solution_id": 32,
+    "url": "http://www.in-situ.com/applications/remediation"
+  },
+  {
+    "provider_id": 54,
+    "solution_id": 38,
+    "url": "http://www.in-situ.com/applications/remediation"
+  },
+  {
+    "provider_id": 54,
+    "solution_id": 46,
+    "url": "http://www.in-situ.com/applications/remediation"
+  },
+  {
+    "provider_id": 54,
+    "solution_id": 61,
+    "url": "http://www.in-situ.com/applications/remediation"
+  },
+  {
+    "provider_id": 54,
+    "solution_id": 73,
+    "url": "http://www.in-situ.com/applications/remediation"
+  },
+  {
+    "provider_id": 55,
+    "solution_id": 24,
+    "url": "http://www.imcoweb.com"
+  },
+  {
+    "provider_id": 55,
+    "solution_id": 25,
+    "url": "http://www.imcoweb.com"
+  },
+  {
+    "provider_id": 56,
+    "solution_id": 8,
+    "url": "http://www.jetincorp.com"
+  },
+  {
+    "provider_id": 56,
+    "solution_id": 9,
+    "url": "http://www.jetincorp.com"
+  },
+  {
+    "provider_id": 56,
+    "solution_id": 10,
+    "url": "http://www.jetincorp.com"
+  },
+  {
+    "provider_id": 56,
+    "solution_id": 39,
+    "url": "http://www.jetincorp.com"
+  },
+  {
+    "provider_id": 56,
+    "solution_id": 60,
+    "url": "http://www.jetincorp.com"
+  },
+  {
+    "provider_id": 56,
+    "solution_id": 93,
+    "url": "http://www.jetincorp.com"
+  },
+  {
+    "provider_id": 57,
+    "solution_id": 34,
+    "url": "http://www.jmsec.com"
+  },
+  {
+    "provider_id": 57,
+    "solution_id": 57,
+    "url": "http://www.jmsec.com"
+  },
+  {
+    "provider_id": 57,
+    "solution_id": 64,
+    "url": "http://www.jmsec.com"
+  },
+  {
+    "provider_id": 57,
+    "solution_id": 65,
+    "url": "http://www.jmsec.com"
+  },
+  {
+    "provider_id": 58,
+    "solution_id": 8,
+    "url": "http://www.kci.com"
+  },
+  {
+    "provider_id": 58,
+    "solution_id": 9,
+    "url": "http://www.kci.com"
+  },
+  {
+    "provider_id": 58,
+    "solution_id": 10,
+    "url": "http://www.kci.com"
+  },
+  {
+    "provider_id": 58,
+    "solution_id": 11,
+    "url": "http://www.kci.com"
+  },
+  {
+    "provider_id": 58,
+    "solution_id": 15,
+    "url": "http://www.kci.com"
+  },
+  {
+    "provider_id": 58,
+    "solution_id": 16,
+    "url": "http://www.kci.com"
+  },
+  {
+    "provider_id": 58,
+    "solution_id": 21,
+    "url": "http://www.kci.com"
+  },
+  {
+    "provider_id": 58,
+    "solution_id": 22,
+    "url": "http://www.kci.com"
+  },
+  {
+    "provider_id": 58,
+    "solution_id": 29,
+    "url": "http://www.kci.com"
+  },
+  {
+    "provider_id": 58,
+    "solution_id": 30,
+    "url": "http://www.kci.com"
+  },
+  {
+    "provider_id": 58,
+    "solution_id": 39,
+    "url": "http://www.kci.com"
+  },
+  {
+    "provider_id": 58,
+    "solution_id": 50,
+    "url": "http://www.kci.com"
+  },
+  {
+    "provider_id": 58,
+    "solution_id": 51,
+    "url": "http://www.kci.com"
+  },
+  {
+    "provider_id": 58,
+    "solution_id": 59,
+    "url": "http://www.kci.com"
+  },
+  {
+    "provider_id": 58,
+    "solution_id": 60,
+    "url": "http://www.kci.com"
+  },
+  {
+    "provider_id": 58,
+    "solution_id": 91,
+    "url": "http://www.kci.com"
+  },
+  {
+    "provider_id": 58,
+    "solution_id": 93,
+    "url": "http://www.kci.com"
+  },
+  {
+    "provider_id": 58,
+    "solution_id": 94,
+    "url": "http://www.kci.com"
+  },
+  {
+    "provider_id": 58,
+    "solution_id": 97,
+    "url": "http://www.kci.com"
+  },
+  {
+    "provider_id": 59,
+    "solution_id": 42,
+    "url": "http://www.loadman.com"
+  },
+  {
+    "provider_id": 59,
+    "solution_id": 83,
+    "url": "http://www.loadman.com"
+  },
+  {
+    "provider_id": 59,
+    "solution_id": 86,
+    "url": "http://www.loadman.com/"
+  },
+  {
+    "provider_id": 60,
+    "solution_id": 11,
+    "url": "http://www.lrvinc.com"
+  },
+  {
+    "provider_id": 60,
+    "solution_id": 14,
+    "url": "http://www.lrvinc.com"
+  },
+  {
+    "provider_id": 60,
+    "solution_id": 15,
+    "url": "http://www.lrvinc.com"
+  },
+  {
+    "provider_id": 60,
+    "solution_id": 16,
+    "url": "http://www.lrvinc.com"
+  },
+  {
+    "provider_id": 60,
+    "solution_id": 32,
+    "url": "http://www.lrvinc.com"
+  },
+  {
+    "provider_id": 60,
+    "solution_id": 73,
+    "url": "http://www.lrvinc.com"
+  },
+  {
+    "provider_id": 60,
+    "solution_id": 91,
+    "url": "http://www.lrvinc.com"
+  },
+  {
+    "provider_id": 61,
+    "solution_id": 17,
+    "url": "http://www.marsystemsinc.com"
+  },
+  {
+    "provider_id": 61,
+    "solution_id": 56,
+    "url": "http://www.marsystemsinc.com"
+  },
+  {
+    "provider_id": 61,
+    "solution_id": 61,
+    "url": "http://www.marsystemsinc.com"
+  },
+  {
+    "provider_id": 61,
+    "solution_id": 67,
+    "url": "http://www.marsystemsinc.com"
+  },
+  {
+    "provider_id": 61,
+    "solution_id": 73,
+    "url": "http://www.marsystemsinc.com"
+  },
+  {
+    "provider_id": 62,
+    "solution_id": 4,
+    "url": "http://www.met.net"
+  },
+  {
+    "provider_id": 62,
+    "solution_id": 5,
+    "url": "http://www.met.net"
+  },
+  {
+    "provider_id": 62,
+    "solution_id": 56,
+    "url": "http://www.met.net"
+  },
+  {
+    "provider_id": 62,
+    "solution_id": 95,
+    "url": "http://www.met.net"
+  },
+  {
+    "provider_id": 62,
+    "solution_id": 96,
+    "url": "http://www.met.net"
+  },
+  {
+    "provider_id": 63,
+    "solution_id": 7,
+    "url": "http://matrixbiotech.com/oxygen"
+  },
+  {
+    "provider_id": 63,
+    "solution_id": 14,
+    "url": "http://matrixbiotech.com/oxygen"
+  },
+  {
+    "provider_id": 63,
+    "solution_id": 32,
+    "url": "http://matrixbiotech.com/oxygen"
+  },
+  {
+    "provider_id": 63,
+    "solution_id": 61,
+    "url": "http://matrixbiotech.com/oxygen"
+  },
+  {
+    "provider_id": 63,
+    "solution_id": 67,
+    "url": "http://matrixbiotech.com/oxygen"
+  },
+  {
+    "provider_id": 63,
+    "solution_id": 69,
+    "url": "http://matrixbiotech.com/oxygen"
+  },
+  {
+    "provider_id": 64,
+    "solution_id": 7,
+    "url": "http://www.mecx.net"
+  },
+  {
+    "provider_id": 64,
+    "solution_id": 14,
+    "url": "http://www.mecx.net"
+  },
+  {
+    "provider_id": 64,
+    "solution_id": 17,
+    "url": "http://www.mecx.net"
+  },
+  {
+    "provider_id": 64,
+    "solution_id": 32,
+    "url": "http://www.mecx.net"
+  },
+  {
+    "provider_id": 64,
+    "solution_id": 38,
+    "url": "http://www.mecx.net"
+  },
+  {
+    "provider_id": 64,
+    "solution_id": 61,
+    "url": "http://www.mecx.net"
+  },
+  {
+    "provider_id": 64,
+    "solution_id": 67,
+    "url": "http://www.mecx.net"
+  },
+  {
+    "provider_id": 65,
+    "solution_id": 7,
+    "url": "http://www.mse-ta.com"
+  },
+  {
+    "provider_id": 65,
+    "solution_id": 14,
+    "url": "http://www.mse-ta.com"
+  },
+  {
+    "provider_id": 65,
+    "solution_id": 17,
+    "url": "http://www.mse-ta.com"
+  },
+  {
+    "provider_id": 65,
+    "solution_id": 32,
+    "url": "http://www.mse-ta.com"
+  },
+  {
+    "provider_id": 65,
+    "solution_id": 67,
+    "url": "http://www.mse-ta.com"
+  },
+  {
+    "provider_id": 65,
+    "solution_id": 73,
+    "url": "http://www.mse-ta.com"
+  },
+  {
+    "provider_id": 66,
+    "solution_id": 7,
+    "url": "http://www.multi-lynx.com"
+  },
+  {
+    "provider_id": 66,
+    "solution_id": 14,
+    "url": "http://www.multi-lynx.com"
+  },
+  {
+    "provider_id": 66,
+    "solution_id": 38,
+    "url": "http://www.multi-lynx.com"
+  },
+  {
+    "provider_id": 66,
+    "solution_id": 67,
+    "url": "http://www.multi-lynx.com"
+  },
+  {
+    "provider_id": 67,
+    "solution_id": 56,
+    "url": "http://www.nalco.com/applications/mercontrol-8034.htm"
+  },
+  {
+    "provider_id": 67,
+    "solution_id": 57,
+    "url": "http://www.nalco.com/applications/mercontrol-7895.htm"
+  },
+  {
+    "provider_id": 67,
+    "solution_id": 80,
+    "url": "http://www.nalco.com/applications/air-protection-technologies.htm"
+  },
+  {
+    "provider_id": 68,
+    "solution_id": 53,
+    "url": "http://www.norit.com/mercury"
+  },
+  {
+    "provider_id": 68,
+    "solution_id": 54,
+    "url": "http://www.norit.com/mercury"
+  },
+  {
+    "provider_id": 69,
+    "solution_id": 80,
+    "url": "http://www.novinda.com"
+  },
+  {
+    "provider_id": 70,
+    "solution_id": 9,
+    "url": "http://www.orenco.com"
+  },
+  {
+    "provider_id": 70,
+    "solution_id": 10,
+    "url": "http://www.orenco.com"
+  },
+  {
+    "provider_id": 70,
+    "solution_id": 16,
+    "url": "http://www.orenco.com"
+  },
+  {
+    "provider_id": 70,
+    "solution_id": 21,
+    "url": "http://www.orenco.com"
+  },
+  {
+    "provider_id": 70,
+    "solution_id": 30,
+    "url": "http://www.orenco.com"
+  },
+  {
+    "provider_id": 70,
+    "solution_id": 77,
+    "url": "http://www.orenco.com"
+  },
+  {
+    "provider_id": 70,
+    "solution_id": 97,
+    "url": "http://www.orenco.com"
+  },
+  {
+    "provider_id": 71,
+    "solution_id": 8,
+    "url": "www.ovivowater.com"
+  },
+  {
+    "provider_id": 71,
+    "solution_id": 9,
+    "url": "www.ovivowater.com"
+  },
+  {
+    "provider_id": 71,
+    "solution_id": 10,
+    "url": "www.ovivowater.com"
+  },
+  {
+    "provider_id": 71,
+    "solution_id": 11,
+    "url": "www.ovivowater.com"
+  },
+  {
+    "provider_id": 71,
+    "solution_id": 12,
+    "url": "www.ovivowater.com"
+  },
+  {
+    "provider_id": 71,
+    "solution_id": 21,
+    "url": "www.ovivowater.com"
+  },
+  {
+    "provider_id": 71,
+    "solution_id": 22,
+    "url": "www.ovivowater.com"
+  },
+  {
+    "provider_id": 71,
+    "solution_id": 23,
+    "url": "www.ovivowater.com"
+  },
+  {
+    "provider_id": 71,
+    "solution_id": 30,
+    "url": "www.ovivowater.com"
+  },
+  {
+    "provider_id": 71,
+    "solution_id": 39,
+    "url": "www.ovivowater.com"
+  },
+  {
+    "provider_id": 71,
+    "solution_id": 50,
+    "url": "www.ovivowater.com"
+  },
+  {
+    "provider_id": 71,
+    "solution_id": 59,
+    "url": "www.ovivowater.com"
+  },
+  {
+    "provider_id": 71,
+    "solution_id": 60,
+    "url": "www.ovivowater.com"
+  },
+  {
+    "provider_id": 71,
+    "solution_id": 72,
+    "url": "www.ovivowater.com"
+  },
+  {
+    "provider_id": 71,
+    "solution_id": 74,
+    "url": "www.ovivowater.com"
+  },
+  {
+    "provider_id": 71,
+    "solution_id": 93,
+    "url": "www.ovivowater.com"
+  },
+  {
+    "provider_id": 71,
+    "solution_id": 97,
+    "url": "www.ovivowater.com"
+  },
+  {
+    "provider_id": 71,
+    "solution_id": 99,
+    "url": "www.ovivowater.com"
+  },
+  {
+    "provider_id": 72,
+    "solution_id": 14,
+    "url": "http://www.planteco.com"
+  },
+  {
+    "provider_id": 72,
+    "solution_id": 17,
+    "url": "http://www.planteco.com"
+  },
+  {
+    "provider_id": 72,
+    "solution_id": 69,
+    "url": "http://www.planteco.com"
+  },
+  {
+    "provider_id": 72,
+    "solution_id": 76,
+    "url": "http://www.planteco.com"
+  },
+  {
+    "provider_id": 73,
+    "solution_id": 14,
+    "url": "http://www.regenesis.com"
+  },
+  {
+    "provider_id": 73,
+    "solution_id": 17,
+    "url": "http://www.regenesis.com"
+  },
+  {
+    "provider_id": 74,
+    "solution_id": 77,
+    "url": "http://www.reliantwater.us.com"
+  },
+  {
+    "provider_id": 75,
+    "solution_id": 6,
+    "url": "http://resintech.com/"
+  },
+  {
+    "provider_id": 75,
+    "solution_id": 40,
+    "url": "http://resintech.com/"
+  },
+  {
+    "provider_id": 75,
+    "solution_id": 52,
+    "url": "http://resintech.com/"
+  },
+  {
+    "provider_id": 75,
+    "solution_id": 70,
+    "url": "http://arieswater.com/"
+  },
+  {
+    "provider_id": 75,
+    "solution_id": 85,
+    "url": "http://resintech.com/"
+  },
+  {
+    "provider_id": 76,
+    "solution_id": 25,
+    "url": "http://www.rypos.com"
+  },
+  {
+    "provider_id": 77,
+    "solution_id": 9,
+    "url": "http://www.schrieberwater.com"
+  },
+  {
+    "provider_id": 77,
+    "solution_id": 30,
+    "url": "http://www.schrieberwater.com"
+  },
+  {
+    "provider_id": 77,
+    "solution_id": 91,
+    "url": "http://www.schrieberwater.com"
+  },
+  {
+    "provider_id": 77,
+    "solution_id": 97,
+    "url": "http://www.schrieberwater.com"
+  },
+  {
+    "provider_id": 78,
+    "solution_id": 6,
+    "url": "http://www.severntrentservices.com/Brands/SORB_33__br_26.aspx"
+  },
+  {
+    "provider_id": 78,
+    "solution_id": 11,
+    "url": "http://www.severntrentservices.com/Brands/ColOX__br_11.aspx"
+  },
+  {
+    "provider_id": 78,
+    "solution_id": 12,
+    "url": "http://www.severntrentservices.com/Wastewater_Treatment/Tertiary_and_Wastewater_Treatment_Systems_prodc_259.aspx"
+  },
+  {
+    "provider_id": 78,
+    "solution_id": 40,
+    "url": "http://www.severntrentservices.com/Brands/Higgins_Loop__br_15.aspx"
+  },
+  {
+    "provider_id": 78,
+    "solution_id": 52,
+    "url": "http://www.severntrentservices.com/Brands/UAT__br_28.aspx"
+  },
+  {
+    "provider_id": 78,
+    "solution_id": 88,
+    "url": "http://www.severntrentservices.com/Drinking_Water_Treatment/Residual_Analyzers_prodc_621.aspx"
+  },
+  {
+    "provider_id": 78,
+    "solution_id": 97,
+    "url": "http://www.severntrentservices.com/Wastewater_Treatment_Tertiary_and_Wastewater_Treatment_Systems/TETRA__Denite__prod_379.aspx"
+  },
+  {
+    "provider_id": 79,
+    "solution_id": 2,
+    "url": "http://www.energy.siemens.com/hq/en/power-generation/environmental-system"
+  },
+  {
+    "provider_id": 79,
+    "solution_id": 3,
+    "url": "http://www.energy.siemens.com/hq/en/power-generation/environmental-system"
+  },
+  {
+    "provider_id": 79,
+    "solution_id": 4,
+    "url": "http://www.energy.siemens.com/hq/en/power-generation/environmental-system"
+  },
+  {
+    "provider_id": 79,
+    "solution_id": 5,
+    "url": "http://www.energy.siemens.com/hq/en/power-generation/environmental-system"
+  },
+  {
+    "provider_id": 79,
+    "solution_id": 26,
+    "url": "http://www.energy.siemens.com/hq/en/power-generation/environmental-system"
+  },
+  {
+    "provider_id": 79,
+    "solution_id": 53,
+    "url": "http://www.energy.siemens.com/hq/en/power-generation/environmental-system"
+  },
+  {
+    "provider_id": 79,
+    "solution_id": 54,
+    "url": "http://www.energy.siemens.com/hq/en/power-generation/environmental-system"
+  },
+  {
+    "provider_id": 79,
+    "solution_id": 56,
+    "url": "http://www.energy.siemens.com/hq/en/power-generation/environmental-system"
+  },
+  {
+    "provider_id": 79,
+    "solution_id": 57,
+    "url": "http://www.energy.siemens.com/hq/en/power-generation/environmental-system"
+  },
+  {
+    "provider_id": 79,
+    "solution_id": 62,
+    "url": "http://www.energy.siemens.com/hq/en/power-generation/environmental-system"
+  },
+  {
+    "provider_id": 79,
+    "solution_id": 95,
+    "url": "http://www.energy.siemens.com/hq/en/power-generation/environmental-system"
+  },
+  {
+    "provider_id": 79,
+    "solution_id": 96,
+    "url": "http://www.energy.siemens.com/hq/en/power-generation/environmental-system"
+  },
+  {
+    "provider_id": 80,
+    "solution_id": 53,
+    "url": "http://www.tekran.com"
+  },
+  {
+    "provider_id": 80,
+    "solution_id": 54,
+    "url": "http://www.tekran.com"
+  },
+  {
+    "provider_id": 80,
+    "solution_id": 56,
+    "url": "http://www.tekran.com"
+  },
+  {
+    "provider_id": 80,
+    "solution_id": 57,
+    "url": "http://www.tekran.com"
+  },
+  {
+    "provider_id": 81,
+    "solution_id": 24,
+    "url": "http://www.tenneco.com"
+  },
+  {
+    "provider_id": 81,
+    "solution_id": 25,
+    "url": "http://www.tenneco.com"
+  },
+  {
+    "provider_id": 82,
+    "solution_id": 75,
+    "url": "http://www.terratherm.com"
+  },
+  {
+    "provider_id": 83,
+    "solution_id": 2,
+    "url": "http://www.thermoscientific.com/ecomm/servlet/productscatalog_11152__80423_-1_4?ca=aqi"
+  },
+  {
+    "provider_id": 83,
+    "solution_id": 3,
+    "url": "http://www.thermoscientific.com/ecomm/servlet/productscatalog_11152__80423_-1_4?ca=aqi"
+  },
+  {
+    "provider_id": 83,
+    "solution_id": 4,
+    "url": "http://www.thermoscientific.com/ecomm/servlet/productscatalog_11152__80423_-1_4?ca=aqi"
+  },
+  {
+    "provider_id": 83,
+    "solution_id": 5,
+    "url": "http://www.thermoscientific.com/ecomm/servlet/productscatalog_11152__80423_-1_4?ca=aqi"
+  },
+  {
+    "provider_id": 83,
+    "solution_id": 26,
+    "url": "http://www.thermoscientific.com/ecomm/servlet/productscatalog_11152__80423_-1_4?ca=aqi"
+  },
+  {
+    "provider_id": 83,
+    "solution_id": 53,
+    "url": "http://www.thermoscientific.com/ecomm/servlet/productscatalog_11152__80423_-1_4?ca=aqi"
+  },
+  {
+    "provider_id": 83,
+    "solution_id": 54,
+    "url": "http://www.thermoscientific.com/ecomm/servlet/productscatalog_11152__80423_-1_4?ca=aqi"
+  },
+  {
+    "provider_id": 83,
+    "solution_id": 56,
+    "url": "http://www.thermoscientific.com/ecomm/servlet/productscatalog_11152__80423_-1_4?ca=aqi"
+  },
+  {
+    "provider_id": 83,
+    "solution_id": 57,
+    "url": "http://www.thermoscientific.com/ecomm/servlet/productscatalog_11152__80423_-1_4?ca=aqi"
+  },
+  {
+    "provider_id": 83,
+    "solution_id": 62,
+    "url": "http://www.thermoscientific.com/ecomm/servlet/productscatalog_11152__80423_-1_4?ca=aqi"
+  },
+  {
+    "provider_id": 83,
+    "solution_id": 80,
+    "url": "http://www.thermoscientific.com/ecomm/servlet/productscatalog_11152__80423_-1_4?ca=aqi"
+  },
+  {
+    "provider_id": 83,
+    "solution_id": 95,
+    "url": "http://www.thermoscientific.com/ecomm/servlet/productscatalog_11152__80423_-1_4?ca=aqi"
+  },
+  {
+    "provider_id": 83,
+    "solution_id": 96,
+    "url": "http://www.thermoscientific.com/ecomm/servlet/productscatalog_11152__80423_-1_4?ca=aqi"
+  },
+  {
+    "provider_id": 84,
+    "solution_id": 30,
+    "url": "http://www.tonkawater.com/"
+  },
+  {
+    "provider_id": 84,
+    "solution_id": 40,
+    "url": "http://www.tonkawater.com/"
+  },
+  {
+    "provider_id": 84,
+    "solution_id": 51,
+    "url": "http://www.tonkawater.com/"
+  },
+  {
+    "provider_id": 84,
+    "solution_id": 52,
+    "url": "http://www.tonkawater.com/"
+  },
+  {
+    "provider_id": 84,
+    "solution_id": 71,
+    "url": "http://www.tonkawater.com/"
+  },
+  {
+    "provider_id": 84,
+    "solution_id": 74,
+    "url": "http://www.tonkawater.com/"
+  },
+  {
+    "provider_id": 84,
+    "solution_id": 85,
+    "url": "http://www.tonkawater.com/"
+  },
+  {
+    "provider_id": 84,
+    "solution_id": 97,
+    "url": "http://www.tonkawater.com/"
+  },
+  {
+    "provider_id": 85,
+    "solution_id": 7,
+    "url": "http://www.trihydro.com/"
+  },
+  {
+    "provider_id": 85,
+    "solution_id": 14,
+    "url": "http://www.trihydro.com/"
+  },
+  {
+    "provider_id": 85,
+    "solution_id": 17,
+    "url": "http://www.trihydro.com/"
+  },
+  {
+    "provider_id": 85,
+    "solution_id": 32,
+    "url": "http://www.trihydro.com/"
+  },
+  {
+    "provider_id": 85,
+    "solution_id": 42,
+    "url": "http://www.trihydro.com/"
+  },
+  {
+    "provider_id": 85,
+    "solution_id": 43,
+    "url": "http://www.trihydro.com/"
+  },
+  {
+    "provider_id": 85,
+    "solution_id": 44,
+    "url": "http://www.trihydro.com/"
+  },
+  {
+    "provider_id": 85,
+    "solution_id": 45,
+    "url": "http://www.trihydro.com/"
+  },
+  {
+    "provider_id": 85,
+    "solution_id": 46,
+    "url": "http://www.trihydro.com/"
+  },
+  {
+    "provider_id": 85,
+    "solution_id": 47,
+    "url": "http://www.trihydro.com/"
+  },
+  {
+    "provider_id": 85,
+    "solution_id": 48,
+    "url": "http://www.trihydro.com/"
+  },
+  {
+    "provider_id": 85,
+    "solution_id": 61,
+    "url": "http://www.trihydro.com/"
+  },
+  {
+    "provider_id": 85,
+    "solution_id": 67,
+    "url": "http://www.trihydro.com/"
+  },
+  {
+    "provider_id": 85,
+    "solution_id": 73,
+    "url": "http://www.trihydro.com/"
+  },
+  {
+    "provider_id": 85,
+    "solution_id": 84,
+    "url": "http://www.trihydro.com/"
+  },
+  {
+    "provider_id": 86,
+    "solution_id": 53,
+    "url": "http://www.unithermcc.com"
+  },
+  {
+    "provider_id": 86,
+    "solution_id": 54,
+    "url": "http://www.unithermcc.com"
+  },
+  {
+    "provider_id": 86,
+    "solution_id": 56,
+    "url": "http://www.unithermcc.com"
+  },
+  {
+    "provider_id": 87,
+    "solution_id": 56,
+    "url": "http://www.gore.com/"
+  },
+  {
+    "provider_id": 87,
+    "solution_id": 80,
+    "url": "http://www.gore.com/"
+  },
+  {
+    "provider_id": 88,
+    "solution_id": 15,
+    "url": "http://www.watertectonics.com"
+  },
+  {
+    "provider_id": 88,
+    "solution_id": 17,
+    "url": "http://www.watertectonics.com"
+  },
+  {
+    "provider_id": 88,
+    "solution_id": 22,
+    "url": "http://www.watertectonics.com"
+  },
+  {
+    "provider_id": 88,
+    "solution_id": 30,
+    "url": "http://www.watertectonics.com"
+  },
+  {
+    "provider_id": 88,
+    "solution_id": 51,
+    "url": "http://www.watertectonics.com"
+  },
+  {
+    "provider_id": 88,
+    "solution_id": 73,
+    "url": "http://www.watertectonics.com"
+  },
+  {
+    "provider_id": 88,
+    "solution_id": 97,
+    "url": "http://www.watertectonics.com"
+  },
+  {
+    "provider_id": 89,
+    "solution_id": 12,
+    "url": "http://www.zapstechnologies.com/"
+  },
+  {
+    "provider_id": 89,
+    "solution_id": 37,
+    "url": "http://www.zapstechnologies.com/"
+  },
+  {
+    "provider_id": 89,
+    "solution_id": 68,
+    "url": "http://www.zapstechnologies.com/"
+  },
+  {
+    "provider_id": 89,
+    "solution_id": 72,
+    "url": "http://www.zapstechnologies.com/"
+  },
+  {
+    "provider_id": 89,
+    "solution_id": 82,
+    "url": "http://www.zapstechnologies.com/"
+  }
+]

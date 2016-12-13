@@ -1,0 +1,358 @@
+[
+  {
+    "provider_id": 1,
+    "name": "ABCOV"
+  },
+  {
+    "provider_id": 2,
+    "name": "ADA-CS"
+  },
+  {
+    "provider_id": 3,
+    "name": "ADA-ES"
+  },
+  {
+    "provider_id": 4,
+    "name": "Adanta, Inc."
+  },
+  {
+    "provider_id": 5,
+    "name": "AEEC"
+  },
+  {
+    "provider_id": 6,
+    "name": "Air Cycle Corporation"
+  },
+  {
+    "provider_id": 7,
+    "name": "Albemarle"
+  },
+  {
+    "provider_id": 8,
+    "name": "Alstom Power, Inc."
+  },
+  {
+    "provider_id": 9,
+    "name": "AMO Environmental Decisions"
+  },
+  {
+    "provider_id": 10,
+    "name": "AMS, Inc."
+  },
+  {
+    "provider_id": 11,
+    "name": "ANDalyze"
+  },
+  {
+    "provider_id": 12,
+    "name": "Andover Technology Partners"
+  },
+  {
+    "provider_id": 13,
+    "name": "Anguil"
+  },
+  {
+    "provider_id": 14,
+    "name": "Aqua-Aerobic Systems, Inc."
+  },
+  {
+    "provider_id": 15,
+    "name": "Ashbrook Simon-Hartley"
+  },
+  {
+    "provider_id": 16,
+    "name": "Association of Lighting and Mercury Recyclers"
+  },
+  {
+    "provider_id": 17,
+    "name": "Babcock Wilcox"
+  },
+  {
+    "provider_id": 18,
+    "name": "BASF"
+  },
+  {
+    "provider_id": 19,
+    "name": "BioCleaner, Inc."
+  },
+  {
+    "provider_id": 20,
+    "name": "Bioremediation Services, Inc."
+  },
+  {
+    "provider_id": 21,
+    "name": "Brentwood Industries"
+  },
+  {
+    "provider_id": 22,
+    "name": "Calgon Carbon Corporation"
+  },
+  {
+    "provider_id": 23,
+    "name": "Cardno ERI"
+  },
+  {
+    "provider_id": 24,
+    "name": "CDM Smith"
+  },
+  {
+    "provider_id": 25,
+    "name": "Cheng Power Systems, Inc."
+  },
+  {
+    "provider_id": 26,
+    "name": "Cormetech"
+  },
+  {
+    "provider_id": 27,
+    "name": "Dais Analytic Corporation"
+  },
+  {
+    "provider_id": 28,
+    "name": "DCL America, Inc."
+  },
+  {
+    "provider_id": 29,
+    "name": "Durag, Inc."
+  },
+  {
+    "provider_id": 30,
+    "name": "Dürr Systems, Inc."
+  },
+  {
+    "provider_id": 31,
+    "name": "Eco-Tec, Inc."
+  },
+  {
+    "provider_id": 32,
+    "name": "Entex Technologies Inc."
+  },
+  {
+    "provider_id": 33,
+    "name": "Environ International Corporation"
+  },
+  {
+    "provider_id": 34,
+    "name": "Environex"
+  },
+  {
+    "provider_id": 35,
+    "name": "Environmental Catalyst Technology"
+  },
+  {
+    "provider_id": 36,
+    "name": "Environmental Operating Solutions, Inc."
+  },
+  {
+    "provider_id": 37,
+    "name": "Environmental Solutions Worldwide, Inc."
+  },
+  {
+    "provider_id": 38,
+    "name": "Epcon Industrial Systems, LP"
+  },
+  {
+    "provider_id": 39,
+    "name": "ESW Group"
+  },
+  {
+    "provider_id": 40,
+    "name": "ETEC, LLC Environmental Technologies"
+  },
+  {
+    "provider_id": 41,
+    "name": "FIRMGREEN INC."
+  },
+  {
+    "provider_id": 42,
+    "name": "Flexible Liner Underground Technologies, LLC"
+  },
+  {
+    "provider_id": 43,
+    "name": "Flowserve Corporation"
+  },
+  {
+    "provider_id": 44,
+    "name": "Geosyntec"
+  },
+  {
+    "provider_id": 45,
+    "name": "Geotech Environmental Equipment, Inc."
+  },
+  {
+    "provider_id": 46,
+    "name": "Global Splash Inc."
+  },
+  {
+    "provider_id": 47,
+    "name": "Groundwater Essentials"
+  },
+  {
+    "provider_id": 48,
+    "name": "GSM Filtration Inc."
+  },
+  {
+    "provider_id": 49,
+    "name": "Hach Company"
+  },
+  {
+    "provider_id": 50,
+    "name": "Hazen and Sawyer"
+  },
+  {
+    "provider_id": 51,
+    "name": "HNO Green Fuels"
+  },
+  {
+    "provider_id": 52,
+    "name": "Hypercat Advanced Catalyst"
+  },
+  {
+    "provider_id": 53,
+    "name": "Hypercat Advanced Catalyst Products"
+  },
+  {
+    "provider_id": 54,
+    "name": "In-Situ Inc."
+  },
+  {
+    "provider_id": 55,
+    "name": "International Muffler Company"
+  },
+  {
+    "provider_id": 56,
+    "name": "Jet, Inc."
+  },
+  {
+    "provider_id": 57,
+    "name": "Johnson Matthey"
+  },
+  {
+    "provider_id": 58,
+    "name": "KCI Technologies, Inc."
+  },
+  {
+    "provider_id": 59,
+    "name": "LoadMan On-Board Weight Scales and Systems"
+  },
+  {
+    "provider_id": 60,
+    "name": "LRV"
+  },
+  {
+    "provider_id": 61,
+    "name": "MAR Systems"
+  },
+  {
+    "provider_id": 62,
+    "name": "Marsulex Environmental Technologies"
+  },
+  {
+    "provider_id": 63,
+    "name": "Matrix Oxygen Injection Systems"
+  },
+  {
+    "provider_id": 64,
+    "name": "MECX"
+  },
+  {
+    "provider_id": 65,
+    "name": "MSE Technology Applications"
+  },
+  {
+    "provider_id": 66,
+    "name": "Multi-Lynx"
+  },
+  {
+    "provider_id": 67,
+    "name": "Nalco, an Ecolab Company"
+  },
+  {
+    "provider_id": 68,
+    "name": "Norit Americas"
+  },
+  {
+    "provider_id": 69,
+    "name": "Novinda Corporation"
+  },
+  {
+    "provider_id": 70,
+    "name": "Orenco Systems, Inc."
+  },
+  {
+    "provider_id": 71,
+    "name": "Ovivo USA, LLC"
+  },
+  {
+    "provider_id": 72,
+    "name": "Planteco"
+  },
+  {
+    "provider_id": 73,
+    "name": "Regenesis"
+  },
+  {
+    "provider_id": 74,
+    "name": "Reliant Water Technologies"
+  },
+  {
+    "provider_id": 75,
+    "name": "ResinTech, Inc."
+  },
+  {
+    "provider_id": 76,
+    "name": "Rypos, Inc."
+  },
+  {
+    "provider_id": 77,
+    "name": "Schreiber Water"
+  },
+  {
+    "provider_id": 78,
+    "name": "Severn Trent Services"
+  },
+  {
+    "provider_id": 79,
+    "name": "Siemens Energy, Inc."
+  },
+  {
+    "provider_id": 80,
+    "name": "Tekran Instruments Corp"
+  },
+  {
+    "provider_id": 81,
+    "name": "Tenneco, Inc."
+  },
+  {
+    "provider_id": 82,
+    "name": "TerraTherm, Inc."
+  },
+  {
+    "provider_id": 83,
+    "name": "Thermo Scientific"
+  },
+  {
+    "provider_id": 84,
+    "name": "Tonka Water"
+  },
+  {
+    "provider_id": 85,
+    "name": "Trihydro Corporation"
+  },
+  {
+    "provider_id": 86,
+    "name": "Unitherm"
+  },
+  {
+    "provider_id": 87,
+    "name": "W. L. Gore & Associates"
+  },
+  {
+    "provider_id": 88,
+    "name": "Water Tectonics"
+  },
+  {
+    "provider_id": 89,
+    "name": "ZAPS Technologies, Inc."
+  }
+]

@@ -1,0 +1,111 @@
+[
+  {
+    "issue_id": 1,
+    "lang": "en",
+    "name": "Arsenic Remediation in Drinking Water",
+    "abstract": "Arsenic is a semi-metal element. It is odorless and tasteless. It occurs naturally in rocks and soil, water, air, and plants and animals. It can be released into the environment through natural activities such as volcanic action, erosion of rocks, and forest fires. Industry practices such as copper smelting, mining and coal burning also contribute to arsenic in our environment. Because it occurs naturally in the environment and as a by-product of some agricultural and industrial activities, it can enter drinking water through the ground or as runoff into surface water sources. Human exposure to arsenic can cause both short and long term health effects.",
+    "regulation_ids": [
+      7
+    ]
+  },
+  {
+    "issue_id": 2,
+    "lang": "en",
+    "name": "Biosolid/Sludge Management, Use, or Disposal",
+    "abstract": "Biosolids are the nutrient-rich organic materials resulting from the treatment of sewage sludge (the name for the solid, semisolid or liquid untreated residue generated during the treatment of domestic sewage in a treatment facility). When treated and processed, sewage sludge becomes biosolids which can be safely recycled and applied as fertilizer to sustainably improve and maintain productive soils and stimulate plant growth.",
+    "regulation_ids": [
+      9
+    ]
+  },
+  {
+    "issue_id": 3,
+    "lang": "en",
+    "name": "Emissions Control for Oil and Natural Gas Processing",
+    "abstract": "EPA revised the new source performance standards for volatile organic compounds from leaking components at onshore natural gas processing plants and new source performance standards for sulfur dioxide emissions from natural gas processing plants. The EPA also established standards for certain oil and gas operations not covered by the existing standards. In addition to the operations covered by the existing standards, the newly established standards will regulate volatile organic compound emissions from gas wells, centrifugal compressors, reciprocating compressors, pneumatic controllers and storage vessels.",
+    "regulation_ids": [
+      12
+    ]
+  },
+  {
+    "issue_id": 4,
+    "lang": "en",
+    "name": "Emissions Control from Large Marine Diesel Engines",
+    "abstract": "Large ships such as container ships, tankers, bulk carriers, cruise ships, and Lakers are significant contributors to air pollution in many cities and ports. The main propulsion engines on most large ships are \"Category 3\" marine diesel engines, which can stand over three stories tall and run the length of two school buses. Exposure to ozone and particulate matter (PM2.5) is linked to adverse human health impacts such as premature deaths as well as other important public health and environmental effects.",
+    "regulation_ids": [
+      3
+    ]
+  },
+  {
+    "issue_id": 5,
+    "lang": "en",
+    "name": "Groundwater Remediation",
+    "abstract": "Groundwater is the source of water found in wells and springs and is an essential source of drinking water. Groundwater contamination is usually very difficult to characterize and clean up, often requiring decades of treatment and monitoring. Each groundwater contamination problem is uniquely complex, yet there are many common issues related to the management and cleanup of these problems. Almost every cleanup program must devote a significant level of attention and resources to groundwater issues.",
+    "regulation_ids": [
+      1,
+      2
+    ]
+  },
+  {
+    "issue_id": 6,
+    "lang": "en",
+    "name": "Mercury Emissions Control from Power Plants",
+    "abstract": "Coal and oil fired electric generating units emit harmful pollutants including mercury, non-mercury metallic toxics, acid gases, and organic air toxics including dioxin. Uncontrolled releases of mercury from power plants can damage children's developing nervous systems, reducing their ability to think and learn. Releases of other toxic air pollutants from power plants can cause a range of dangerous health problems in adults, from cancer to respiratory illnesses.",
+    "regulation_ids": [
+      5
+    ]
+  },
+  {
+    "issue_id": 7,
+    "lang": "en",
+    "name": "Municipal Landfill Standards",
+    "abstract": "The control of landfill gas results in emissions reductions of over 30 volatile organic compounds and air toxics such as toluene, benzene, and vinyl chloride. The reduction of these emissions has direct and indirect health benefits as well as environmental benefits. In addition, the control of landfill gas results in reductions of methane gas emissions which not only reduces the potential for fires and explosions near landfills but also reduces the potential for global climate change related to methane gas emissions. Another benefit is the reduction of odor problems which reduces the potential for local property de-valuation and poorer quality of life for local residents.",
+    "regulation_ids": [
+      11
+    ]
+  },
+  {
+    "issue_id": 8,
+    "lang": "en",
+    "name": "Municipal Nutrient Removal",
+    "abstract": "One of the major concerns regarding constituents in municipal wastewater treatment plant discharges is the concentration of nutrient compounds, in particular nitrogen and phosphorus. Nutrients stimulate the growth of microorganisms (including algae) and other aquatic vegetation in receiving waters, leading to decreased oxygen levels. Excess nutrients are a significant water quality concern in many of the nationÕs waters and a leading cause of impairment of designated uses. Wastewater treatment facilities are increasingly being required to address this issue by implementing treatment processes that reduce effluent nutrient concentrations to levels that regulators deem sufficiently protective of the environment.",
+    "regulation_ids": [
+      1
+    ]
+  },
+  {
+    "issue_id": 9,
+    "lang": "en",
+    "name": "Non-road Diesel Emissions Control",
+    "abstract": "Nonroad diesel engines are used in machines that perform a wide range of important jobs. These include excavators and other construction equipment, farm tractors and other agricultural equipment, heavy forklifts, airport ground service equipment, and utility equipment such as generators, pumps, and compressors. Advanced emission control technologies can limit exhaust emissions from these engines by more than 90 percent.",
+    "regulation_ids": [
+      6
+    ]
+  },
+  {
+    "issue_id": 10,
+    "lang": "en",
+    "name": "NOx Emission Controls for Power Plants",
+    "abstract": "Nitrogen dioxide (NO2) is one of a group of highly reactive gasses known as \"oxides of nitrogen,\" or \"nitrogen oxides (NOx).\" Other nitrogen oxides include nitrous acid and nitric acid. EPA’s National Ambient Air Quality Standard uses NO2 as the indicator for the larger group of nitrogen oxides. NO2 forms quickly from emissions from cars, trucks and buses, power plants, and off-road equipment. In addition to contributing to the formation of ground-level ozone, and fine particle pollution, NO2 is linked with a number of adverse effects on the respiratory system.",
+    "regulation_ids": [
+      4
+    ]
+  },
+  {
+    "issue_id": 11,
+    "lang": "en",
+    "name": "Secondary or Advanced Wastewater Treatment",
+    "abstract": "An important aspect of municipal wastewater is that it is amenable to biological treatment. The biological treatment component of a municipal treatment plant is termed secondary treatment and is usually preceded by simple settling (primary treatment). Secondary treatment standards are established by EPA for publicly owned treatment works (POTWs) and reflect the performance of secondary wastewater treatment plants. The secondary treatment standards also provide for special considerations regarding combined sewers, industrial wastes, waste stabilization ponds, less concentrated influent wastewater for combined and separate sewers, and alternative standards for treatment facilities considered equivalent to secondary treatment.",
+    "regulation_ids": [
+      8
+    ]
+  },
+  {
+    "issue_id": 12,
+    "lang": "en",
+    "name": "Universal Waste",
+    "abstract": "The universal waste rule provides streamlined management requirements tailored to several different kinds of waste. The types of waste in the universal waste rule are frequently thrown in the trash by unregulated households and small businesses. Classifying an item as a universal waste provides flexibility for its proper management and can prevent the item from entering municipal trash. Instead, it can be readily collected and disposed of at a hazardous waste facility.",
+    "regulation_ids": [
+      10
+    ]
+  }
+]

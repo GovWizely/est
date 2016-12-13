@@ -1,0 +1,32 @@
+---
+_collection_path: "$[*]"
+issue_id:
+  source: issue_id
+  description: Description of issue_id
+  indexed: true
+  plural: true
+  type: enum
+lang:
+  source: lang
+  description: Description of lang
+  indexed: true
+  plural: false
+  type: enum
+name:
+  source: name
+  description: Description of name
+  indexed: false
+  plural: false
+  type: string
+abstract:
+  source: abstract
+  description: Description of abstract
+  indexed: false
+  plural: false
+  type: string
+regulation_id:
+  source: regulation_ids
+  description: Description of regulation_ids
+  indexed: true
+  plural: true
+  type: enum

@@ -1,0 +1,26 @@
+---
+_collection_path: "$[*]"
+solution_id:
+  source: solution_id
+  description: Description of solution_id
+  indexed: true
+  plural: true
+  type: enum
+lang:
+  source: lang
+  description: Description of lang
+  indexed: true
+  plural: false
+  type: enum
+name:
+  source: name
+  description: Description of name
+  indexed: false
+  plural: false
+  type: string
+provider_id:
+  source: provider_ids
+  description: Description of provider_ids
+  indexed: true
+  plural: true
+  type: enum
