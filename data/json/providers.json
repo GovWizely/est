@@ -1,358 +1,1088 @@
 [
   {
     "provider_id": 1,
-    "name": "ABCOV"
+    "name": "ABCOV",
+    "solution_ids": [
+      86
+    ]
   },
   {
     "provider_id": 2,
-    "name": "ADA-CS"
+    "name": "ADA-CS",
+    "solution_ids": [
+      53,
+      54,
+      56,
+      57
+    ]
   },
   {
     "provider_id": 3,
-    "name": "ADA-ES"
+    "name": "ADA-ES",
+    "solution_ids": [
+      2,
+      3,
+      4,
+      53,
+      54,
+      95
+    ]
   },
   {
     "provider_id": 4,
-    "name": "Adanta, Inc."
+    "name": "Adanta, Inc.",
+    "solution_ids": [
+      7,
+      14,
+      38,
+      61,
+      69,
+      73,
+      79
+    ]
   },
   {
     "provider_id": 5,
-    "name": "AEEC"
+    "name": "AEEC",
+    "solution_ids": [
+      7,
+      8,
+      9,
+      10,
+      11,
+      14,
+      15,
+      16,
+      17,
+      21,
+      22,
+      29,
+      30,
+      32,
+      38,
+      39,
+      50,
+      51,
+      59,
+      60,
+      61,
+      67,
+      69,
+      73,
+      77,
+      91,
+      93,
+      94,
+      97
+    ]
   },
   {
     "provider_id": 6,
-    "name": "Air Cycle Corporation"
+    "name": "Air Cycle Corporation",
+    "solution_ids": [
+      41
+    ]
   },
   {
     "provider_id": 7,
-    "name": "Albemarle"
+    "name": "Albemarle",
+    "solution_ids": [
+      53
+    ]
   },
   {
     "provider_id": 8,
-    "name": "Alstom Power, Inc."
+    "name": "Alstom Power, Inc.",
+    "solution_ids": [
+      56,
+      57
+    ]
   },
   {
     "provider_id": 9,
-    "name": "AMO Environmental Decisions"
+    "name": "AMO Environmental Decisions",
+    "solution_ids": [
+      7,
+      14,
+      38,
+      61,
+      73
+    ]
   },
   {
     "provider_id": 10,
-    "name": "AMS, Inc."
+    "name": "AMS, Inc.",
+    "solution_ids": [
+      7,
+      14,
+      17,
+      32,
+      73,
+      76
+    ]
   },
   {
     "provider_id": 11,
-    "name": "ANDalyze"
+    "name": "ANDalyze",
+    "solution_ids": [
+      46,
+      72,
+      75,
+      76
+    ]
   },
   {
     "provider_id": 12,
-    "name": "Andover Technology Partners"
+    "name": "Andover Technology Partners",
+    "solution_ids": [
+      2,
+      3,
+      4,
+      5,
+      26,
+      33,
+      34,
+      35,
+      53,
+      54,
+      56,
+      57,
+      62,
+      63,
+      64,
+      65,
+      66,
+      95,
+      96
+    ]
   },
   {
     "provider_id": 13,
-    "name": "Anguil"
+    "name": "Anguil",
+    "solution_ids": [
+      1,
+      31,
+      36,
+      57,
+      61,
+      65,
+      73
+    ]
   },
   {
     "provider_id": 14,
-    "name": "Aqua-Aerobic Systems, Inc."
+    "name": "Aqua-Aerobic Systems, Inc.",
+    "solution_ids": [
+      9,
+      12,
+      29,
+      30,
+      50,
+      52,
+      72,
+      82,
+      91,
+      97
+    ]
   },
   {
     "provider_id": 15,
-    "name": "Ashbrook Simon-Hartley"
+    "name": "Ashbrook Simon-Hartley",
+    "solution_ids": [
+      9,
+      15,
+      16,
+      29,
+      30,
+      39,
+      50,
+      51,
+      59,
+      60,
+      91,
+      94,
+      97
+    ]
   },
   {
     "provider_id": 16,
-    "name": "Association of Lighting and Mercury Recyclers"
+    "name": "Association of Lighting and Mercury Recyclers",
+    "solution_ids": [
+      20,
+      28,
+      41,
+      53
+    ]
   },
   {
     "provider_id": 17,
-    "name": "Babcock Wilcox"
+    "name": "Babcock Wilcox",
+    "solution_ids": [
+      2,
+      3,
+      4,
+      5,
+      26,
+      53,
+      54,
+      56,
+      57,
+      62,
+      95,
+      96
+    ]
   },
   {
     "provider_id": 18,
-    "name": "BASF"
+    "name": "BASF",
+    "solution_ids": [
+      53,
+      54
+    ]
   },
   {
     "provider_id": 19,
-    "name": "BioCleaner, Inc."
+    "name": "BioCleaner, Inc.",
+    "solution_ids": [
+      8,
+      11,
+      21,
+      29,
+      77
+    ]
   },
   {
     "provider_id": 20,
-    "name": "Bioremediation Services, Inc."
+    "name": "Bioremediation Services, Inc.",
+    "solution_ids": [
+      14
+    ]
   },
   {
     "provider_id": 21,
-    "name": "Brentwood Industries"
+    "name": "Brentwood Industries",
+    "solution_ids": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      21,
+      22,
+      39,
+      59,
+      68,
+      93,
+      97,
+      99
+    ]
   },
   {
     "provider_id": 22,
-    "name": "Calgon Carbon Corporation"
+    "name": "Calgon Carbon Corporation",
+    "solution_ids": [
+      6,
+      17,
+      40,
+      53,
+      54,
+      55,
+      56,
+      68,
+      73,
+      78,
+      80,
+      84,
+      92
+    ]
   },
   {
     "provider_id": 23,
-    "name": "Cardno ERI"
+    "name": "Cardno ERI",
+    "solution_ids": [
+      7,
+      14,
+      17,
+      32,
+      38,
+      61,
+      73
+    ]
   },
   {
     "provider_id": 24,
-    "name": "CDM Smith"
+    "name": "CDM Smith",
+    "solution_ids": [
+      13,
+      19,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48
+    ]
   },
   {
     "provider_id": 25,
-    "name": "Cheng Power Systems, Inc."
+    "name": "Cheng Power Systems, Inc.",
+    "solution_ids": [
+      78
+    ]
   },
   {
     "provider_id": 26,
-    "name": "Cormetech"
+    "name": "Cormetech",
+    "solution_ids": [
+      57,
+      65
+    ]
   },
   {
     "provider_id": 27,
-    "name": "Dais Analytic Corporation"
+    "name": "Dais Analytic Corporation",
+    "solution_ids": [
+      21,
+      22,
+      30,
+      32,
+      51,
+      61,
+      73,
+      80,
+      97
+    ]
   },
   {
     "provider_id": 28,
-    "name": "DCL America, Inc."
+    "name": "DCL America, Inc.",
+    "solution_ids": [
+      24,
+      25,
+      64
+    ]
   },
   {
     "provider_id": 29,
-    "name": "Durag, Inc."
+    "name": "Durag, Inc.",
+    "solution_ids": [
+      78,
+      80,
+      84
+    ]
   },
   {
     "provider_id": 30,
-    "name": "Dürr Systems, Inc."
+    "name": "Dürr Systems, Inc.",
+    "solution_ids": [
+      27,
+      42,
+      83,
+      84
+    ]
   },
   {
     "provider_id": 31,
-    "name": "Eco-Tec, Inc."
+    "name": "Eco-Tec, Inc.",
+    "solution_ids": [
+      32,
+      61,
+      67,
+      73
+    ]
   },
   {
     "provider_id": 32,
-    "name": "Entex Technologies Inc."
+    "name": "Entex Technologies Inc.",
+    "solution_ids": [
+      12,
+      30,
+      39,
+      60,
+      72,
+      97
+    ]
   },
   {
     "provider_id": 33,
-    "name": "Environ International Corporation"
+    "name": "Environ International Corporation",
+    "solution_ids": [
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87
+    ]
   },
   {
     "provider_id": 34,
-    "name": "Environex"
+    "name": "Environex",
+    "solution_ids": [
+      24
+    ]
   },
   {
     "provider_id": 35,
-    "name": "Environmental Catalyst Technology"
+    "name": "Environmental Catalyst Technology",
+    "solution_ids": [
+      24,
+      25
+    ]
   },
   {
     "provider_id": 36,
-    "name": "Environmental Operating Solutions, Inc."
+    "name": "Environmental Operating Solutions, Inc.",
+    "solution_ids": [
+      14,
+      77
+    ]
   },
   {
     "provider_id": 37,
-    "name": "Environmental Solutions Worldwide, Inc."
+    "name": "Environmental Solutions Worldwide, Inc.",
+    "solution_ids": [
+      25,
+      81
+    ]
   },
   {
     "provider_id": 38,
-    "name": "Epcon Industrial Systems, LP"
+    "name": "Epcon Industrial Systems, LP",
+    "solution_ids": [
+      5,
+      45,
+      63,
+      64,
+      84
+    ]
   },
   {
     "provider_id": 39,
-    "name": "ESW Group"
+    "name": "ESW Group",
+    "solution_ids": [
+      24,
+      25
+    ]
   },
   {
     "provider_id": 40,
-    "name": "ETEC, LLC Environmental Technologies"
+    "name": "ETEC, LLC Environmental Technologies",
+    "solution_ids": [
+      7,
+      14,
+      17,
+      32,
+      38,
+      61,
+      67,
+      73,
+      76
+    ]
   },
   {
     "provider_id": 41,
-    "name": "FIRMGREEN INC."
+    "name": "FIRMGREEN INC.",
+    "solution_ids": [
+      45,
+      83
+    ]
   },
   {
     "provider_id": 42,
-    "name": "Flexible Liner Underground Technologies, LLC"
+    "name": "Flexible Liner Underground Technologies, LLC",
+    "solution_ids": [
+      75
+    ]
   },
   {
     "provider_id": 43,
-    "name": "Flowserve Corporation"
+    "name": "Flowserve Corporation",
+    "solution_ids": [
+      17,
+      32,
+      73
+    ]
   },
   {
     "provider_id": 44,
-    "name": "Geosyntec"
+    "name": "Geosyntec",
+    "solution_ids": [
+      13,
+      19,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48
+    ]
   },
   {
     "provider_id": 45,
-    "name": "Geotech Environmental Equipment, Inc."
+    "name": "Geotech Environmental Equipment, Inc.",
+    "solution_ids": [
+      7,
+      14,
+      17,
+      32,
+      38,
+      61,
+      67,
+      68,
+      69,
+      72,
+      73,
+      76
+    ]
   },
   {
     "provider_id": 46,
-    "name": "Global Splash Inc."
+    "name": "Global Splash Inc.",
+    "solution_ids": [
+      40,
+      68
+    ]
   },
   {
     "provider_id": 47,
-    "name": "Groundwater Essentials"
+    "name": "Groundwater Essentials",
+    "solution_ids": [
+      7,
+      14,
+      17,
+      32,
+      38,
+      61,
+      67,
+      69,
+      73
+    ]
   },
   {
     "provider_id": 48,
-    "name": "GSM Filtration Inc."
+    "name": "GSM Filtration Inc.",
+    "solution_ids": [
+      23,
+      30,
+      96,
+      99
+    ]
   },
   {
     "provider_id": 49,
-    "name": "Hach Company"
+    "name": "Hach Company",
+    "solution_ids": [
+      72,
+      75,
+      76,
+      77,
+      82,
+      85,
+      87
+    ]
   },
   {
     "provider_id": 50,
-    "name": "Hazen and Sawyer"
+    "name": "Hazen and Sawyer",
+    "solution_ids": [
+      6,
+      8,
+      9,
+      10,
+      11,
+      12,
+      15,
+      16,
+      18,
+      21,
+      22,
+      23,
+      27,
+      29,
+      30,
+      37,
+      39,
+      40,
+      50,
+      51,
+      52,
+      59,
+      60,
+      68,
+      70,
+      71,
+      72,
+      74,
+      77,
+      82,
+      85,
+      87,
+      88,
+      91,
+      92,
+      93,
+      94,
+      97,
+      98,
+      99
+    ]
   },
   {
     "provider_id": 51,
-    "name": "HNO Green Fuels"
+    "name": "HNO Green Fuels",
+    "solution_ids": [
+      63,
+      65
+    ]
   },
   {
     "provider_id": 52,
-    "name": "Hypercat Advanced Catalyst"
+    "name": "Hypercat Advanced Catalyst",
+    "solution_ids": [
+      24
+    ]
   },
   {
     "provider_id": 53,
-    "name": "Hypercat Advanced Catalyst Products"
+    "name": "Hypercat Advanced Catalyst Products",
+    "solution_ids": [
+      63,
+      64,
+      65
+    ]
   },
   {
     "provider_id": 54,
-    "name": "In-Situ Inc."
+    "name": "In-Situ Inc.",
+    "solution_ids": [
+      7,
+      14,
+      17,
+      32,
+      38,
+      46,
+      61,
+      73
+    ]
   },
   {
     "provider_id": 55,
-    "name": "International Muffler Company"
+    "name": "International Muffler Company",
+    "solution_ids": [
+      24,
+      25
+    ]
   },
   {
     "provider_id": 56,
-    "name": "Jet, Inc."
+    "name": "Jet, Inc.",
+    "solution_ids": [
+      8,
+      9,
+      10,
+      39,
+      60,
+      93
+    ]
   },
   {
     "provider_id": 57,
-    "name": "Johnson Matthey"
+    "name": "Johnson Matthey",
+    "solution_ids": [
+      34,
+      57,
+      64,
+      65
+    ]
   },
   {
     "provider_id": 58,
-    "name": "KCI Technologies, Inc."
+    "name": "KCI Technologies, Inc.",
+    "solution_ids": [
+      8,
+      9,
+      10,
+      11,
+      15,
+      16,
+      21,
+      22,
+      29,
+      30,
+      39,
+      50,
+      51,
+      59,
+      60,
+      91,
+      93,
+      94,
+      97
+    ]
   },
   {
     "provider_id": 59,
-    "name": "LoadMan On-Board Weight Scales and Systems"
+    "name": "LoadMan On-Board Weight Scales and Systems",
+    "solution_ids": [
+      42,
+      83,
+      86
+    ]
   },
   {
     "provider_id": 60,
-    "name": "LRV"
+    "name": "LRV",
+    "solution_ids": [
+      11,
+      14,
+      15,
+      16,
+      32,
+      73,
+      91
+    ]
   },
   {
     "provider_id": 61,
-    "name": "MAR Systems"
+    "name": "MAR Systems",
+    "solution_ids": [
+      17,
+      56,
+      61,
+      67,
+      73
+    ]
   },
   {
     "provider_id": 62,
-    "name": "Marsulex Environmental Technologies"
+    "name": "Marsulex Environmental Technologies",
+    "solution_ids": [
+      4,
+      5,
+      56,
+      95,
+      96
+    ]
   },
   {
     "provider_id": 63,
-    "name": "Matrix Oxygen Injection Systems"
+    "name": "Matrix Oxygen Injection Systems",
+    "solution_ids": [
+      7,
+      14,
+      32,
+      61,
+      67,
+      69
+    ]
   },
   {
     "provider_id": 64,
-    "name": "MECX"
+    "name": "MECX",
+    "solution_ids": [
+      7,
+      14,
+      17,
+      32,
+      38,
+      61,
+      67
+    ]
   },
   {
     "provider_id": 65,
-    "name": "MSE Technology Applications"
+    "name": "MSE Technology Applications",
+    "solution_ids": [
+      7,
+      14,
+      17,
+      32,
+      67,
+      73
+    ]
   },
   {
     "provider_id": 66,
-    "name": "Multi-Lynx"
+    "name": "Multi-Lynx",
+    "solution_ids": [
+      7,
+      14,
+      38,
+      67
+    ]
   },
   {
     "provider_id": 67,
-    "name": "Nalco, an Ecolab Company"
+    "name": "Nalco, an Ecolab Company",
+    "solution_ids": [
+      56,
+      57,
+      80
+    ]
   },
   {
     "provider_id": 68,
-    "name": "Norit Americas"
+    "name": "Norit Americas",
+    "solution_ids": [
+      53,
+      54
+    ]
   },
   {
     "provider_id": 69,
-    "name": "Novinda Corporation"
+    "name": "Novinda Corporation",
+    "solution_ids": [
+      80
+    ]
   },
   {
     "provider_id": 70,
-    "name": "Orenco Systems, Inc."
+    "name": "Orenco Systems, Inc.",
+    "solution_ids": [
+      9,
+      10,
+      16,
+      21,
+      30,
+      77,
+      97
+    ]
   },
   {
     "provider_id": 71,
-    "name": "Ovivo USA, LLC"
+    "name": "Ovivo USA, LLC",
+    "solution_ids": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      21,
+      22,
+      23,
+      30,
+      39,
+      50,
+      59,
+      60,
+      72,
+      74,
+      93,
+      97,
+      99
+    ]
   },
   {
     "provider_id": 72,
-    "name": "Planteco"
+    "name": "Planteco",
+    "solution_ids": [
+      14,
+      17,
+      69,
+      76
+    ]
   },
   {
     "provider_id": 73,
-    "name": "Regenesis"
+    "name": "Regenesis",
+    "solution_ids": [
+      14,
+      17
+    ]
   },
   {
     "provider_id": 74,
-    "name": "Reliant Water Technologies"
+    "name": "Reliant Water Technologies",
+    "solution_ids": [
+      77
+    ]
   },
   {
     "provider_id": 75,
-    "name": "ResinTech, Inc."
+    "name": "ResinTech, Inc.",
+    "solution_ids": [
+      6,
+      40,
+      52,
+      70,
+      85
+    ]
   },
   {
     "provider_id": 76,
-    "name": "Rypos, Inc."
+    "name": "Rypos, Inc.",
+    "solution_ids": [
+      25
+    ]
   },
   {
     "provider_id": 77,
-    "name": "Schreiber Water"
+    "name": "Schreiber Water",
+    "solution_ids": [
+      9,
+      30,
+      91,
+      97
+    ]
   },
   {
     "provider_id": 78,
-    "name": "Severn Trent Services"
+    "name": "Severn Trent Services",
+    "solution_ids": [
+      6,
+      11,
+      12,
+      40,
+      52,
+      88,
+      97
+    ]
   },
   {
     "provider_id": 79,
-    "name": "Siemens Energy, Inc."
+    "name": "Siemens Energy, Inc.",
+    "solution_ids": [
+      2,
+      3,
+      4,
+      5,
+      26,
+      53,
+      54,
+      56,
+      57,
+      62,
+      95,
+      96
+    ]
   },
   {
     "provider_id": 80,
-    "name": "Tekran Instruments Corp"
+    "name": "Tekran Instruments Corp",
+    "solution_ids": [
+      53,
+      54,
+      56,
+      57
+    ]
   },
   {
     "provider_id": 81,
-    "name": "Tenneco, Inc."
+    "name": "Tenneco, Inc.",
+    "solution_ids": [
+      24,
+      25
+    ]
   },
   {
     "provider_id": 82,
-    "name": "TerraTherm, Inc."
+    "name": "TerraTherm, Inc.",
+    "solution_ids": [
+      75
+    ]
   },
   {
     "provider_id": 83,
-    "name": "Thermo Scientific"
+    "name": "Thermo Scientific",
+    "solution_ids": [
+      2,
+      3,
+      4,
+      5,
+      26,
+      53,
+      54,
+      56,
+      57,
+      62,
+      80,
+      95,
+      96
+    ]
   },
   {
     "provider_id": 84,
-    "name": "Tonka Water"
+    "name": "Tonka Water",
+    "solution_ids": [
+      30,
+      40,
+      51,
+      52,
+      71,
+      74,
+      85,
+      97
+    ]
   },
   {
     "provider_id": 85,
-    "name": "Trihydro Corporation"
+    "name": "Trihydro Corporation",
+    "solution_ids": [
+      7,
+      14,
+      17,
+      32,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      61,
+      67,
+      73,
+      84
+    ]
   },
   {
     "provider_id": 86,
-    "name": "Unitherm"
+    "name": "Unitherm",
+    "solution_ids": [
+      53,
+      54,
+      56
+    ]
   },
   {
     "provider_id": 87,
-    "name": "W. L. Gore & Associates"
+    "name": "W. L. Gore & Associates",
+    "solution_ids": [
+      56,
+      80
+    ]
   },
   {
     "provider_id": 88,
-    "name": "Water Tectonics"
+    "name": "Water Tectonics",
+    "solution_ids": [
+      15,
+      17,
+      22,
+      30,
+      51,
+      73,
+      97
+    ]
   },
   {
     "provider_id": 89,
-    "name": "ZAPS Technologies, Inc."
+    "name": "ZAPS Technologies, Inc.",
+    "solution_ids": [
+      12,
+      37,
+      68,
+      72,
+      82
+    ]
   }
 ]

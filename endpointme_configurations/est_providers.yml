@@ -9,6 +9,12 @@ provider_id:
 name:
   source: name
   description: Description of name
-  indexed: false
+  indexed: true
   plural: false
   type: string
+solution_id:
+  source: solution_ids
+  description: Description of solution_id
+  indexed: true
+  plural: true
+  type: enum
