@@ -24,9 +24,21 @@ name:
   indexed: false
   plural: false
   type: string
+issue_id:
+  source: issue_ids
+  description: Description of issue_id
+  indexed: true
+  plural: true
+  type: enum
 solution_id:
   source: solution_ids
-  description: Description of solution_ids
+  description: Description of solution_id
+  indexed: true
+  plural: true
+  type: enum
+provider_id:
+  source: provider_ids
+  description: Description of provider_id
   indexed: true
   plural: true
   type: enum

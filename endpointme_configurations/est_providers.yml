@@ -12,6 +12,18 @@ name:
   indexed: true
   plural: false
   type: string
+issue_id:
+  source: issue_ids
+  description: Description of issue_id
+  indexed: true
+  plural: true
+  type: enum
+regulation_id:
+  source: regulation_ids
+  description: Description of regulation_id
+  indexed: true
+  plural: true
+  type: enum
 solution_id:
   source: solution_ids
   description: Description of solution_id

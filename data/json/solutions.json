@@ -3,6 +3,12 @@
     "solution_id": 1,
     "lang": "en",
     "name": "Absorption Towers",
+    "issue_ids": [
+      3
+    ],
+    "regulation_ids": [
+      12
+    ],
     "provider_ids": [
       13
     ]
@@ -11,6 +17,12 @@
     "solution_id": 2,
     "lang": "en",
     "name": "Acid Gases - Dry Sorbent Injection",
+    "issue_ids": [
+      6
+    ],
+    "regulation_ids": [
+      5
+    ],
     "provider_ids": [
       3,
       12,
@@ -23,6 +35,12 @@
     "solution_id": 3,
     "lang": "en",
     "name": "Acid Gases - Dry Sorbent Injection with Electrostatic Precipitators",
+    "issue_ids": [
+      6
+    ],
+    "regulation_ids": [
+      5
+    ],
     "provider_ids": [
       3,
       12,
@@ -35,6 +53,12 @@
     "solution_id": 4,
     "lang": "en",
     "name": "Acid Gases - Dry Sorbent Injection with Fabric Filters",
+    "issue_ids": [
+      6
+    ],
+    "regulation_ids": [
+      5
+    ],
     "provider_ids": [
       3,
       12,
@@ -48,6 +72,12 @@
     "solution_id": 5,
     "lang": "en",
     "name": "Acid Gases - Flue-gas Desulfurization",
+    "issue_ids": [
+      6
+    ],
+    "regulation_ids": [
+      5
+    ],
     "provider_ids": [
       12,
       17,
@@ -61,6 +91,12 @@
     "solution_id": 6,
     "lang": "en",
     "name": "Adsorption Processes",
+    "issue_ids": [
+      1
+    ],
+    "regulation_ids": [
+      7
+    ],
     "provider_ids": [
       22,
       50,
@@ -72,6 +108,14 @@
     "solution_id": 7,
     "lang": "en",
     "name": "Air Sparging",
+    "issue_ids": [
+      5,
+      8
+    ],
+    "regulation_ids": [
+      1,
+      2
+    ],
     "provider_ids": [
       4,
       5,
@@ -93,6 +137,13 @@
     "solution_id": 8,
     "lang": "en",
     "name": "Anaerobic/anoxic/oxic (A2O)",
+    "issue_ids": [
+      5,
+      8
+    ],
+    "regulation_ids": [
+      1
+    ],
     "provider_ids": [
       5,
       19,
@@ -107,6 +158,13 @@
     "solution_id": 9,
     "lang": "en",
     "name": "Anoxic zone (following aeration)",
+    "issue_ids": [
+      5,
+      8
+    ],
+    "regulation_ids": [
+      1
+    ],
     "provider_ids": [
       5,
       14,
@@ -124,6 +182,13 @@
     "solution_id": 10,
     "lang": "en",
     "name": "Anoxic/oxic (A/O)",
+    "issue_ids": [
+      5,
+      8
+    ],
+    "regulation_ids": [
+      1
+    ],
     "provider_ids": [
       5,
       21,
@@ -138,6 +203,13 @@
     "solution_id": 11,
     "lang": "en",
     "name": "Biological aerated filtration",
+    "issue_ids": [
+      5,
+      8
+    ],
+    "regulation_ids": [
+      1
+    ],
     "provider_ids": [
       5,
       19,
@@ -153,6 +225,12 @@
     "solution_id": 12,
     "lang": "en",
     "name": "Biological Treatment Processes",
+    "issue_ids": [
+      11
+    ],
+    "regulation_ids": [
+      8
+    ],
     "provider_ids": [
       14,
       21,
@@ -167,6 +245,12 @@
     "solution_id": 13,
     "lang": "en",
     "name": "Bioreactors",
+    "issue_ids": [
+      7
+    ],
+    "regulation_ids": [
+      11
+    ],
     "provider_ids": [
       24,
       44
@@ -176,6 +260,14 @@
     "solution_id": 14,
     "lang": "en",
     "name": "Bioremediation",
+    "issue_ids": [
+      5,
+      8
+    ],
+    "regulation_ids": [
+      1,
+      2
+    ],
     "provider_ids": [
       4,
       5,
@@ -202,6 +294,13 @@
     "solution_id": 15,
     "lang": "en",
     "name": "Chemical Precipitation for Nitrogen and Phosphorus",
+    "issue_ids": [
+      5,
+      8
+    ],
+    "regulation_ids": [
+      1
+    ],
     "provider_ids": [
       5,
       15,
@@ -215,6 +314,13 @@
     "solution_id": 16,
     "lang": "en",
     "name": "Chemical Precipitation for Phosphorus",
+    "issue_ids": [
+      5,
+      8
+    ],
+    "regulation_ids": [
+      1
+    ],
     "provider_ids": [
       5,
       15,
@@ -228,6 +334,14 @@
     "solution_id": 17,
     "lang": "en",
     "name": "Chemical Treatment",
+    "issue_ids": [
+      5,
+      8
+    ],
+    "regulation_ids": [
+      1,
+      2
+    ],
     "provider_ids": [
       5,
       10,
@@ -251,6 +365,12 @@
     "solution_id": 18,
     "lang": "en",
     "name": "Conditioning Technology or Processes",
+    "issue_ids": [
+      2
+    ],
+    "regulation_ids": [
+      9
+    ],
     "provider_ids": [
       50
     ]
@@ -259,6 +379,12 @@
     "solution_id": 19,
     "lang": "en",
     "name": "Controlled Injection Systems",
+    "issue_ids": [
+      7
+    ],
+    "regulation_ids": [
+      11
+    ],
     "provider_ids": [
       24,
       44
@@ -268,6 +394,12 @@
     "solution_id": 20,
     "lang": "en",
     "name": "CRT Recycling Technology",
+    "issue_ids": [
+      12
+    ],
+    "regulation_ids": [
+      10
+    ],
     "provider_ids": [
       16
     ]
@@ -276,6 +408,13 @@
     "solution_id": 21,
     "lang": "en",
     "name": "Denitrification Filters for Nitrogen",
+    "issue_ids": [
+      5,
+      8
+    ],
+    "regulation_ids": [
+      1
+    ],
     "provider_ids": [
       5,
       19,
@@ -291,6 +430,13 @@
     "solution_id": 22,
     "lang": "en",
     "name": "Denitrification Filters for Nitrogen and Phosphorus",
+    "issue_ids": [
+      5,
+      8
+    ],
+    "regulation_ids": [
+      1
+    ],
     "provider_ids": [
       5,
       21,
@@ -305,6 +451,12 @@
     "solution_id": 23,
     "lang": "en",
     "name": "Dewatering Technology or Processes",
+    "issue_ids": [
+      2
+    ],
+    "regulation_ids": [
+      9
+    ],
     "provider_ids": [
       48,
       50,
@@ -315,6 +467,12 @@
     "solution_id": 24,
     "lang": "en",
     "name": "Diesel Oxidation Catalysts",
+    "issue_ids": [
+      9
+    ],
+    "regulation_ids": [
+      6
+    ],
     "provider_ids": [
       28,
       34,
@@ -329,6 +487,12 @@
     "solution_id": 25,
     "lang": "en",
     "name": "Diesel Particulate Filters",
+    "issue_ids": [
+      9
+    ],
+    "regulation_ids": [
+      6
+    ],
     "provider_ids": [
       28,
       35,
@@ -343,6 +507,12 @@
     "solution_id": 26,
     "lang": "en",
     "name": "Dioxins & Furans - Work Practice Standard (inspection, adjustment, and/or maintenance and repairs to ensure optimal combustion)",
+    "issue_ids": [
+      6
+    ],
+    "regulation_ids": [
+      5
+    ],
     "provider_ids": [
       12,
       17,
@@ -354,6 +524,12 @@
     "solution_id": 27,
     "lang": "en",
     "name": "Drying Technology or Processes",
+    "issue_ids": [
+      2
+    ],
+    "regulation_ids": [
+      9
+    ],
     "provider_ids": [
       30,
       50
@@ -363,6 +539,12 @@
     "solution_id": 28,
     "lang": "en",
     "name": "E-Waste Recycling Technology",
+    "issue_ids": [
+      12
+    ],
+    "regulation_ids": [
+      10
+    ],
     "provider_ids": [
       16
     ]
@@ -371,6 +553,13 @@
     "solution_id": 29,
     "lang": "en",
     "name": "Enhanced biological phosphorus removal (EBPR) with volatile fatty acids (VFA) addition and filters",
+    "issue_ids": [
+      5,
+      8
+    ],
+    "regulation_ids": [
+      1
+    ],
     "provider_ids": [
       5,
       14,
@@ -384,6 +573,13 @@
     "solution_id": 30,
     "lang": "en",
     "name": "Filtration",
+    "issue_ids": [
+      5,
+      8
+    ],
+    "regulation_ids": [
+      1
+    ],
     "provider_ids": [
       5,
       14,
@@ -404,6 +600,12 @@
     "solution_id": 31,
     "lang": "en",
     "name": "Flash Tanks",
+    "issue_ids": [
+      3
+    ],
+    "regulation_ids": [
+      12
+    ],
     "provider_ids": [
       13
     ]
@@ -412,6 +614,14 @@
     "solution_id": 32,
     "lang": "en",
     "name": "Flushing",
+    "issue_ids": [
+      5,
+      8
+    ],
+    "regulation_ids": [
+      1,
+      2
+    ],
     "provider_ids": [
       5,
       10,
@@ -434,6 +644,12 @@
     "solution_id": 33,
     "lang": "en",
     "name": "Fuel Switching - Low Sulphur Diesel",
+    "issue_ids": [
+      4
+    ],
+    "regulation_ids": [
+      3
+    ],
     "provider_ids": [
       12
     ]
@@ -442,6 +658,12 @@
     "solution_id": 34,
     "lang": "en",
     "name": "Fuel Switching - Natural Gas",
+    "issue_ids": [
+      4
+    ],
+    "regulation_ids": [
+      3
+    ],
     "provider_ids": [
       12,
       57
@@ -451,6 +673,12 @@
     "solution_id": 35,
     "lang": "en",
     "name": "Fuel Switching - SOx Scrubbers",
+    "issue_ids": [
+      4
+    ],
+    "regulation_ids": [
+      3
+    ],
     "provider_ids": [
       12
     ]
@@ -459,6 +687,12 @@
     "solution_id": 36,
     "lang": "en",
     "name": "Glycol Dehydrators",
+    "issue_ids": [
+      3
+    ],
+    "regulation_ids": [
+      12
+    ],
     "provider_ids": [
       13
     ]
@@ -467,6 +701,12 @@
     "solution_id": 37,
     "lang": "en",
     "name": "In-plant Wet Weather Management Processes",
+    "issue_ids": [
+      11
+    ],
+    "regulation_ids": [
+      8
+    ],
     "provider_ids": [
       50,
       89
@@ -476,6 +716,14 @@
     "solution_id": 38,
     "lang": "en",
     "name": "In-Well Air Stripping",
+    "issue_ids": [
+      5,
+      8
+    ],
+    "regulation_ids": [
+      1,
+      2
+    ],
     "provider_ids": [
       4,
       5,
@@ -493,6 +741,13 @@
     "solution_id": 39,
     "lang": "en",
     "name": "Integrated fixed-film activated sludge (IFAS)",
+    "issue_ids": [
+      5,
+      8
+    ],
+    "regulation_ids": [
+      1
+    ],
     "provider_ids": [
       5,
       15,
@@ -508,6 +763,12 @@
     "solution_id": 40,
     "lang": "en",
     "name": "Ion Exchange Processes",
+    "issue_ids": [
+      1
+    ],
+    "regulation_ids": [
+      7
+    ],
     "provider_ids": [
       22,
       46,
@@ -521,6 +782,12 @@
     "solution_id": 41,
     "lang": "en",
     "name": "Lamp Crushing Systems",
+    "issue_ids": [
+      12
+    ],
+    "regulation_ids": [
+      10
+    ],
     "provider_ids": [
       6,
       16
@@ -530,6 +797,12 @@
     "solution_id": 42,
     "lang": "en",
     "name": "Landfill Control Systems",
+    "issue_ids": [
+      7
+    ],
+    "regulation_ids": [
+      11
+    ],
     "provider_ids": [
       24,
       30,
@@ -542,6 +815,12 @@
     "solution_id": 43,
     "lang": "en",
     "name": "Landfill Covers",
+    "issue_ids": [
+      7
+    ],
+    "regulation_ids": [
+      11
+    ],
     "provider_ids": [
       24,
       44,
@@ -552,6 +831,12 @@
     "solution_id": 44,
     "lang": "en",
     "name": "Landfill Gas Air Monitoring",
+    "issue_ids": [
+      7
+    ],
+    "regulation_ids": [
+      11
+    ],
     "provider_ids": [
       24,
       44,
@@ -562,6 +847,12 @@
     "solution_id": 45,
     "lang": "en",
     "name": "Landfill Gas Collection",
+    "issue_ids": [
+      7
+    ],
+    "regulation_ids": [
+      11
+    ],
     "provider_ids": [
       24,
       38,
@@ -574,6 +865,12 @@
     "solution_id": 46,
     "lang": "en",
     "name": "Landfill Groundwater Monitoring",
+    "issue_ids": [
+      7
+    ],
+    "regulation_ids": [
+      11
+    ],
     "provider_ids": [
       11,
       24,
@@ -586,6 +883,12 @@
     "solution_id": 47,
     "lang": "en",
     "name": "Leachate Collection Systems",
+    "issue_ids": [
+      7
+    ],
+    "regulation_ids": [
+      11
+    ],
     "provider_ids": [
       24,
       44,
@@ -596,6 +899,12 @@
     "solution_id": 48,
     "lang": "en",
     "name": "Liners",
+    "issue_ids": [
+      7
+    ],
+    "regulation_ids": [
+      11
+    ],
     "provider_ids": [
       24,
       44,
@@ -606,6 +915,13 @@
     "solution_id": 50,
     "lang": "en",
     "name": "Membrane bioreactor (MBR)",
+    "issue_ids": [
+      5,
+      8
+    ],
+    "regulation_ids": [
+      1
+    ],
     "provider_ids": [
       5,
       14,
@@ -619,6 +935,13 @@
     "solution_id": 51,
     "lang": "en",
     "name": "Membrane Filter",
+    "issue_ids": [
+      5,
+      8
+    ],
+    "regulation_ids": [
+      1
+    ],
     "provider_ids": [
       5,
       15,
@@ -633,6 +956,12 @@
     "solution_id": 52,
     "lang": "en",
     "name": "Membrane Processes",
+    "issue_ids": [
+      1
+    ],
+    "regulation_ids": [
+      7
+    ],
     "provider_ids": [
       14,
       50,
@@ -645,6 +974,12 @@
     "solution_id": 53,
     "lang": "en",
     "name": "Mercury - Activated Carbon Injection",
+    "issue_ids": [
+      6
+    ],
+    "regulation_ids": [
+      5
+    ],
     "provider_ids": [
       2,
       3,
@@ -665,6 +1000,12 @@
     "solution_id": 54,
     "lang": "en",
     "name": "Mercury - Activated Carbon Injection with Fabric Filter",
+    "issue_ids": [
+      6
+    ],
+    "regulation_ids": [
+      5
+    ],
     "provider_ids": [
       2,
       3,
@@ -683,6 +1024,12 @@
     "solution_id": 55,
     "lang": "en",
     "name": "Mercury - Electrostatic Precipitators",
+    "issue_ids": [
+      6
+    ],
+    "regulation_ids": [
+      5
+    ],
     "provider_ids": [
       22
     ]
@@ -691,6 +1038,12 @@
     "solution_id": 56,
     "lang": "en",
     "name": "Mercury - Flue-gas Desulfurization",
+    "issue_ids": [
+      6
+    ],
+    "regulation_ids": [
+      5
+    ],
     "provider_ids": [
       2,
       8,
@@ -711,6 +1064,12 @@
     "solution_id": 57,
     "lang": "en",
     "name": "Mercury - Selective Catalytic Reduction",
+    "issue_ids": [
+      6
+    ],
+    "regulation_ids": [
+      5
+    ],
     "provider_ids": [
       2,
       8,
@@ -729,6 +1088,13 @@
     "solution_id": 59,
     "lang": "en",
     "name": "MLE/3-stage Westbank",
+    "issue_ids": [
+      5,
+      8
+    ],
+    "regulation_ids": [
+      1
+    ],
     "provider_ids": [
       5,
       15,
@@ -742,6 +1108,13 @@
     "solution_id": 60,
     "lang": "en",
     "name": "Moving bed biofilm reactor (MBBR)",
+    "issue_ids": [
+      5,
+      8
+    ],
+    "regulation_ids": [
+      1
+    ],
     "provider_ids": [
       5,
       15,
@@ -756,6 +1129,14 @@
     "solution_id": 61,
     "lang": "en",
     "name": "Multi-Phase Extraction",
+    "issue_ids": [
+      5,
+      8
+    ],
+    "regulation_ids": [
+      1,
+      2
+    ],
     "provider_ids": [
       4,
       5,
@@ -778,6 +1159,12 @@
     "solution_id": 62,
     "lang": "en",
     "name": "Non-Mercury Metals - Fabric Filter, Electrostatic Precipitators",
+    "issue_ids": [
+      6
+    ],
+    "regulation_ids": [
+      5
+    ],
     "provider_ids": [
       12,
       17,
@@ -789,6 +1176,12 @@
     "solution_id": 63,
     "lang": "en",
     "name": "NOx - Exhaust Gas Recirculation",
+    "issue_ids": [
+      4
+    ],
+    "regulation_ids": [
+      3
+    ],
     "provider_ids": [
       12,
       38,
@@ -800,6 +1193,12 @@
     "solution_id": 64,
     "lang": "en",
     "name": "NOx - Natural Gas Engine",
+    "issue_ids": [
+      4
+    ],
+    "regulation_ids": [
+      3
+    ],
     "provider_ids": [
       12,
       28,
@@ -812,6 +1211,14 @@
     "solution_id": 65,
     "lang": "en",
     "name": "NOx - Selective Catalytic Reduction",
+    "issue_ids": [
+      4,
+      9
+    ],
+    "regulation_ids": [
+      3,
+      6
+    ],
     "provider_ids": [
       12,
       13,
@@ -825,6 +1232,12 @@
     "solution_id": 66,
     "lang": "en",
     "name": "NOx - Water Injection",
+    "issue_ids": [
+      4
+    ],
+    "regulation_ids": [
+      3
+    ],
     "provider_ids": [
       12
     ]
@@ -833,6 +1246,14 @@
     "solution_id": 67,
     "lang": "en",
     "name": "Permeable Reactive Barrier",
+    "issue_ids": [
+      5,
+      8
+    ],
+    "regulation_ids": [
+      1,
+      2
+    ],
     "provider_ids": [
       5,
       31,
@@ -851,6 +1272,12 @@
     "solution_id": 68,
     "lang": "en",
     "name": "Physical and Chemical Treatment Processes",
+    "issue_ids": [
+      11
+    ],
+    "regulation_ids": [
+      8
+    ],
     "provider_ids": [
       21,
       22,
@@ -864,6 +1291,14 @@
     "solution_id": 69,
     "lang": "en",
     "name": "Phytoremediation",
+    "issue_ids": [
+      5,
+      8
+    ],
+    "regulation_ids": [
+      1,
+      2
+    ],
     "provider_ids": [
       4,
       5,
@@ -877,6 +1312,12 @@
     "solution_id": 70,
     "lang": "en",
     "name": "Point-of-Use (POU) Devices",
+    "issue_ids": [
+      1
+    ],
+    "regulation_ids": [
+      7
+    ],
     "provider_ids": [
       50,
       75
@@ -886,6 +1327,12 @@
     "solution_id": 71,
     "lang": "en",
     "name": "Precipitative Processes",
+    "issue_ids": [
+      1
+    ],
+    "regulation_ids": [
+      7
+    ],
     "provider_ids": [
       50,
       84
@@ -895,6 +1342,12 @@
     "solution_id": 72,
     "lang": "en",
     "name": "Process Monitoring Technologies",
+    "issue_ids": [
+      11
+    ],
+    "regulation_ids": [
+      8
+    ],
     "provider_ids": [
       11,
       14,
@@ -910,6 +1363,14 @@
     "solution_id": 73,
     "lang": "en",
     "name": "Pump and Treat",
+    "issue_ids": [
+      5,
+      8
+    ],
+    "regulation_ids": [
+      1,
+      2
+    ],
     "provider_ids": [
       4,
       5,
@@ -936,6 +1397,12 @@
     "solution_id": 74,
     "lang": "en",
     "name": "Re-use or Disposal Processes",
+    "issue_ids": [
+      2
+    ],
+    "regulation_ids": [
+      9
+    ],
     "provider_ids": [
       50,
       71,
@@ -946,6 +1413,12 @@
     "solution_id": 75,
     "lang": "en",
     "name": "Related Technologies for CERCLA: Groundwater Remediation",
+    "issue_ids": [
+      5
+    ],
+    "regulation_ids": [
+      2
+    ],
     "provider_ids": [
       11,
       42,
@@ -957,6 +1430,13 @@
     "solution_id": 76,
     "lang": "en",
     "name": "Related Technologies for Clean Water Act: Groundwater Remediation",
+    "issue_ids": [
+      5,
+      8
+    ],
+    "regulation_ids": [
+      1
+    ],
     "provider_ids": [
       10,
       11,
@@ -971,6 +1451,13 @@
     "solution_id": 77,
     "lang": "en",
     "name": "Related Technologies for Clean Water Act: Municipal Nutrient Removal",
+    "issue_ids": [
+      5,
+      8
+    ],
+    "regulation_ids": [
+      1
+    ],
     "provider_ids": [
       5,
       19,
@@ -986,6 +1473,12 @@
     "solution_id": 78,
     "lang": "en",
     "name": "Related Technologies for CSAPR: NOx Emissions Control from Power Plants",
+    "issue_ids": [
+      10
+    ],
+    "regulation_ids": [
+      4
+    ],
     "provider_ids": [
       22,
       25,
@@ -997,6 +1490,12 @@
     "solution_id": 79,
     "lang": "en",
     "name": "Related Technologies for Marine Diesel Engine Emissions Control: Large Marine Diesel Engines",
+    "issue_ids": [
+      4
+    ],
+    "regulation_ids": [
+      3
+    ],
     "provider_ids": [
       4,
       33
@@ -1006,6 +1505,12 @@
     "solution_id": 80,
     "lang": "en",
     "name": "Related Technologies for Mercury and Air Toxics Standards: Mercury Emissions Control from Power Plants",
+    "issue_ids": [
+      6
+    ],
+    "regulation_ids": [
+      5
+    ],
     "provider_ids": [
       22,
       27,
@@ -1021,6 +1526,12 @@
     "solution_id": 81,
     "lang": "en",
     "name": "Related Technologies for Non-road Exhaust Emission Standards: Non-road Diesel Emissions Control",
+    "issue_ids": [
+      9
+    ],
+    "regulation_ids": [
+      6
+    ],
     "provider_ids": [
       33,
       37
@@ -1030,6 +1541,12 @@
     "solution_id": 82,
     "lang": "en",
     "name": "Related Technologies for NPDES: Secondary or Advanced Wastewater Treatment Standards",
+    "issue_ids": [
+      11
+    ],
+    "regulation_ids": [
+      8
+    ],
     "provider_ids": [
       14,
       33,
@@ -1042,6 +1559,12 @@
     "solution_id": 83,
     "lang": "en",
     "name": "Related Technologies for NSPS: Municipal Landfill Standards",
+    "issue_ids": [
+      7
+    ],
+    "regulation_ids": [
+      11
+    ],
     "provider_ids": [
       30,
       33,
@@ -1053,6 +1576,12 @@
     "solution_id": 84,
     "lang": "en",
     "name": "Related Technologies for NSPS: Oil and Gas Processing Emissions Control",
+    "issue_ids": [
+      3
+    ],
+    "regulation_ids": [
+      12
+    ],
     "provider_ids": [
       22,
       29,
@@ -1066,6 +1595,12 @@
     "solution_id": 85,
     "lang": "en",
     "name": "Related Technologies for Safe Water Drinking Act - Arsenic Rule: Arsenic Remediation",
+    "issue_ids": [
+      1
+    ],
+    "regulation_ids": [
+      7
+    ],
     "provider_ids": [
       33,
       49,
@@ -1078,6 +1613,12 @@
     "solution_id": 86,
     "lang": "en",
     "name": "Related Technologies for Standards for Universal Waste Management: Universal Waste",
+    "issue_ids": [
+      12
+    ],
+    "regulation_ids": [
+      10
+    ],
     "provider_ids": [
       1,
       33,
@@ -1088,6 +1629,12 @@
     "solution_id": 87,
     "lang": "en",
     "name": "Related Technologies for Standards for Use or Disposal of Sewage Sludge: Biosolid/Sludge Management",
+    "issue_ids": [
+      2
+    ],
+    "regulation_ids": [
+      9
+    ],
     "provider_ids": [
       33,
       49,
@@ -1098,6 +1645,12 @@
     "solution_id": 88,
     "lang": "en",
     "name": "Residual Management Processes",
+    "issue_ids": [
+      1
+    ],
+    "regulation_ids": [
+      7
+    ],
     "provider_ids": [
       50,
       78
@@ -1107,6 +1660,13 @@
     "solution_id": 91,
     "lang": "en",
     "name": "Sequencing batch reactor (SBR)/cyclic activated sludge",
+    "issue_ids": [
+      5,
+      8
+    ],
+    "regulation_ids": [
+      1
+    ],
     "provider_ids": [
       5,
       14,
@@ -1121,6 +1681,12 @@
     "solution_id": 92,
     "lang": "en",
     "name": "Stabilization Technology or Processes",
+    "issue_ids": [
+      2
+    ],
+    "regulation_ids": [
+      9
+    ],
     "provider_ids": [
       22,
       50
@@ -1130,6 +1696,13 @@
     "solution_id": 93,
     "lang": "en",
     "name": "Step-feed activated sludge (AS)",
+    "issue_ids": [
+      5,
+      8
+    ],
+    "regulation_ids": [
+      1
+    ],
     "provider_ids": [
       5,
       21,
@@ -1143,6 +1716,13 @@
     "solution_id": 94,
     "lang": "en",
     "name": "Step-feed with selector",
+    "issue_ids": [
+      5,
+      8
+    ],
+    "regulation_ids": [
+      1
+    ],
     "provider_ids": [
       5,
       15,
@@ -1154,6 +1734,12 @@
     "solution_id": 95,
     "lang": "en",
     "name": "Sulphur Dioxide - Dry Sorbent Injection",
+    "issue_ids": [
+      6
+    ],
+    "regulation_ids": [
+      5
+    ],
     "provider_ids": [
       3,
       12,
@@ -1167,6 +1753,12 @@
     "solution_id": 96,
     "lang": "en",
     "name": "Sulphur Dioxide - Flue-gas Desulphurization",
+    "issue_ids": [
+      6
+    ],
+    "regulation_ids": [
+      5
+    ],
     "provider_ids": [
       12,
       17,
@@ -1180,6 +1772,13 @@
     "solution_id": 97,
     "lang": "en",
     "name": "Tertiary clarifier/tertiary filter",
+    "issue_ids": [
+      5,
+      8
+    ],
+    "regulation_ids": [
+      1
+    ],
     "provider_ids": [
       5,
       14,
@@ -1201,6 +1800,12 @@
     "solution_id": 98,
     "lang": "en",
     "name": "Thermal Conversion Technology or Processes",
+    "issue_ids": [
+      2
+    ],
+    "regulation_ids": [
+      9
+    ],
     "provider_ids": [
       50
     ]
@@ -1209,6 +1814,12 @@
     "solution_id": 99,
     "lang": "en",
     "name": "Thickening Technology or Processes",
+    "issue_ids": [
+      2
+    ],
+    "regulation_ids": [
+      9
+    ],
     "provider_ids": [
       21,
       48,

@@ -4,6 +4,10 @@
     "url": "https://www.epa.gov/laws-regulations/summary-clean-water-act",
     "lang": "en",
     "name": "Clean Water Act",
+    "issue_ids": [
+      5,
+      8
+    ],
     "solution_ids": [
       7,
       8,
@@ -35,6 +39,52 @@
       93,
       94,
       97
+    ],
+    "provider_ids": [
+      4,
+      5,
+      9,
+      10,
+      11,
+      13,
+      14,
+      15,
+      19,
+      20,
+      21,
+      22,
+      23,
+      27,
+      31,
+      32,
+      33,
+      36,
+      40,
+      43,
+      45,
+      47,
+      48,
+      49,
+      50,
+      54,
+      56,
+      58,
+      60,
+      61,
+      63,
+      64,
+      65,
+      66,
+      70,
+      71,
+      72,
+      73,
+      74,
+      77,
+      78,
+      84,
+      85,
+      88
     ]
   },
   {
@@ -42,6 +92,9 @@
     "url": "http://www.epa.gov/superfund/policy/cercla.htm",
     "lang": "en",
     "name": "Comprehensive Environmental Response, Compensation and Liability Act",
+    "issue_ids": [
+      5
+    ],
     "solution_ids": [
       7,
       14,
@@ -53,6 +106,38 @@
       69,
       73,
       75
+    ],
+    "provider_ids": [
+      4,
+      5,
+      9,
+      10,
+      11,
+      13,
+      20,
+      22,
+      23,
+      27,
+      31,
+      36,
+      40,
+      42,
+      43,
+      45,
+      47,
+      49,
+      54,
+      60,
+      61,
+      63,
+      64,
+      65,
+      66,
+      72,
+      73,
+      82,
+      85,
+      88
     ]
   },
   {
@@ -60,6 +145,9 @@
     "url": "http://www.epa.gov/otaq/oceanvessels.htm",
     "lang": "en",
     "name": "Control of Emissions from New and In-Use Marine Engines and Vessels",
+    "issue_ids": [
+      4
+    ],
     "solution_ids": [
       33,
       34,
@@ -69,6 +157,18 @@
       65,
       66,
       79
+    ],
+    "provider_ids": [
+      4,
+      12,
+      13,
+      26,
+      28,
+      33,
+      38,
+      51,
+      53,
+      57
     ]
   },
   {
@@ -76,11 +176,20 @@
     "url": "https://www3.epa.gov/crossstaterule/",
     "lang": "en",
     "name": "Cross-State Air Pollution Rule (CSAPR)",
+    "issue_ids": [
+      10
+    ],
     "solution_ids": [
       49,
       78,
       89,
       90
+    ],
+    "provider_ids": [
+      22,
+      25,
+      29,
+      33
     ]
   },
   {
@@ -88,6 +197,9 @@
     "url": "http://www.epa.gov/mats/",
     "lang": "en",
     "name": "Mercury and Air Toxics Standards",
+    "issue_ids": [
+      6
+    ],
     "solution_ids": [
       2,
       3,
@@ -103,6 +215,35 @@
       80,
       95,
       96
+    ],
+    "provider_ids": [
+      2,
+      3,
+      7,
+      8,
+      12,
+      13,
+      16,
+      17,
+      18,
+      22,
+      26,
+      27,
+      29,
+      33,
+      38,
+      48,
+      57,
+      61,
+      62,
+      67,
+      68,
+      69,
+      79,
+      80,
+      83,
+      86,
+      87
     ]
   },
   {
@@ -110,10 +251,31 @@
     "url": "https://www.epa.gov/emission-standards-reference-guide",
     "lang": "en",
     "name": "Non-road Exhaust Emissions Standards",
+    "issue_ids": [
+      9
+    ],
     "solution_ids": [
       24,
       25,
       65,
+      81
+    ],
+    "provider_ids": [
+      12,
+      13,
+      26,
+      28,
+      33,
+      34,
+      35,
+      37,
+      39,
+      51,
+      52,
+      53,
+      55,
+      57,
+      76,
       81
     ]
   },
@@ -122,6 +284,9 @@
     "url": "https://www.epa.gov/dwreginfo/chemical-contaminant-rules",
     "lang": "en",
     "name": "Safe Drinking Water Act - Arsenic Rule",
+    "issue_ids": [
+      1
+    ],
     "solution_ids": [
       6,
       40,
@@ -130,6 +295,17 @@
       71,
       85,
       88
+    ],
+    "provider_ids": [
+      14,
+      22,
+      33,
+      46,
+      49,
+      50,
+      75,
+      78,
+      84
     ]
   },
   {
@@ -137,12 +313,30 @@
     "url": "http://www.epa.gov/npdes/pubs/chapt_05.pdf",
     "lang": "en",
     "name": "Secondary Treatment Standards under the National Pollutant Discharge Elimination System (NPDES)",
+    "issue_ids": [
+      11
+    ],
     "solution_ids": [
       12,
       37,
       68,
       72,
       82
+    ],
+    "provider_ids": [
+      11,
+      14,
+      21,
+      22,
+      32,
+      33,
+      45,
+      46,
+      49,
+      50,
+      71,
+      78,
+      89
     ]
   },
   {
@@ -150,6 +344,9 @@
     "url": "http://www.ecfr.gov/cgi-bin/text-idx?tpl=/ecfrbrowse/Title40/40cfr503_main_02.tpl",
     "lang": "en",
     "name": "Standards for the Use or Disposal of Sewage Sludge",
+    "issue_ids": [
+      2
+    ],
     "solution_ids": [
       18,
       23,
@@ -159,6 +356,17 @@
       92,
       98,
       99
+    ],
+    "provider_ids": [
+      21,
+      22,
+      30,
+      33,
+      48,
+      49,
+      50,
+      71,
+      84
     ]
   },
   {
@@ -166,12 +374,22 @@
     "url": "http://www.gpo.gov/fdsys/pkg/CFR-2012-title40-vol28/pdf/CFR-2012-title40-vol28-part273.pdf",
     "lang": "en",
     "name": "Standards for Universal Waste Management",
+    "issue_ids": [
+      12
+    ],
     "solution_ids": [
       20,
       28,
       41,
       58,
       86
+    ],
+    "provider_ids": [
+      1,
+      6,
+      16,
+      33,
+      59
     ]
   },
   {
@@ -179,6 +397,9 @@
     "url": "http://www.gpo.gov/fdsys/pkg/CFR-2011-title40-vol6/xml/CFR-2011-title40-vol6-part60.xml",
     "lang": "en",
     "name": "Standards of Performance for New Stationary Sources: Landfills and Municipal Waste",
+    "issue_ids": [
+      7
+    ],
     "solution_ids": [
       13,
       19,
@@ -190,6 +411,18 @@
       47,
       48,
       83
+    ],
+    "provider_ids": [
+      11,
+      24,
+      30,
+      33,
+      38,
+      41,
+      44,
+      54,
+      59,
+      85
     ]
   },
   {
@@ -197,11 +430,23 @@
     "url": "http://www.gpo.gov/fdsys/pkg/CFR-2011-title40-vol6/xml/CFR-2011-title40-vol6-part60.xml",
     "lang": "en",
     "name": "Standards of Performance for New Stationary Sources: Oil and Gas",
+    "issue_ids": [
+      3
+    ],
     "solution_ids": [
       1,
       31,
       36,
       84
+    ],
+    "provider_ids": [
+      13,
+      22,
+      29,
+      30,
+      33,
+      38,
+      85
     ]
   }
 ]
