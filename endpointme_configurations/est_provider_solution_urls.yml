@@ -18,3 +18,9 @@ url:
   indexed: false
   plural: false
   type: string
+provider_name:
+  source: provider_name
+  description: Description of provider_name
+  indexed: false
+  plural: false
+  type: string
