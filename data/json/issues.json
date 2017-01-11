@@ -26,6 +26,28 @@
       75,
       78,
       84
+    ],
+    "links": [
+      {
+        "name": "U.S. Environmental Protection Agency Regulatory Background",
+        "url": "https://www.epa.gov/dwreginfo/drinking-water-arsenic-rule-history"
+      },
+      {
+        "name": "Analytical Methods for Rule Determinations",
+        "url": "https://nepis.epa.gov/Exe/ZyNET.exe/2000JT4N.TXT?ZyActionD=ZyDocument&Client=EPA&Index=2000+Thru+2005&Docs=&Query=&Time=&EndTime=&SearchMethod=1&TocRestrict=n&Toc=&TocEntry=&QField=&QFieldYear=&QFieldMonth=&QFieldDay=&IntQFieldOp=0&ExtQFieldOp=0&XmlQuery=&File=D%3A%5Czyfiles%5CIndex%20Data%5C00thru05%5CTxt%5C00000010%5C2000JT4N.txt&User=ANONYMOUS&Password=anonymous&SortMethod=h%7C-&MaximumDocuments=1&FuzzyDegree=0&ImageQuality=r75g8/r75g8/x150y150g16/i425&Display=hpfr&DefSeekPage=x&SearchBack=ZyActionL&Back=ZyActionS&BackDesc=Results%20page&MaximumPages=1&ZyEntry=1&SeekPage=x&ZyPURL"
+      },
+      {
+        "name": "Arsenic Occurrence in Public Drinking Water",
+        "url": "https://nepis.epa.gov/Exe/ZyNET.exe/P1004W96.TXT?ZyActionD=ZyDocument&Client=EPA&Index=2000+Thru+2005&Docs=&Query=&Time=&EndTime=&SearchMethod=1&TocRestrict=n&Toc=&TocEntry=&QField=&QFieldYear=&QFieldMonth=&QFieldDay=&IntQFieldOp=0&ExtQFieldOp=0&XmlQuery=&File=D%3A%5Czyfiles%5CIndex%20Data%5C00thru05%5CTxt%5C00000021%5CP1004W96.txt&User=ANONYMOUS&Password=anonymous&SortMethod=h%7C-&MaximumDocuments=1&FuzzyDegree=0&ImageQuality=r75g8/r75g8/x150y150g16/i425&Display=hpfr&DefSeekPage=x&SearchBack=ZyActionL&Back=ZyActionS&BackDesc=Results%20page&MaximumPages=1&ZyEntry=1&SeekPage=x&ZyPURL"
+      },
+      {
+        "name": "Economic Analysis",
+        "url": "https://nepis.epa.gov/Exe/ZyNET.exe/20001YQT.txt?ZyActionD=ZyDocument&Client=EPA&Index=2000%20Thru%202005&Docs=&Query=&Time=&EndTime=&SearchMethod=1&TocRestrict=n&Toc=&TocEntry=&QField=&QFieldYear=&QFieldMonth=&QFieldDay=&UseQField=&IntQFieldOp=0&ExtQFieldOp=0&XmlQuery=&File=D%3A%5CZYFILES%5CINDEX%20DATA%5C00THRU05%5CTXT%5C00000001%5C20001YQT.txt&User=ANONYMOUS&Password=anonymous&SortMethod=h%7C-&MaximumDocuments=1&FuzzyDegree=0&ImageQuality=r75g8/r75g8/x150y150g16/i425&Display=hpfr&DefSeekPage=x&SearchBack=ZyActionL&Back=ZyActionS&BackDesc=Results%20page&MaximumPages=1&ZyEntry=1"
+      },
+      {
+        "name": "Remediation Technologies and Costs",
+        "url": "https://clu-in.org/download/remed/542r02004/arsenic_report.pdf"
+      }
     ]
   },
   {
@@ -56,6 +78,24 @@
       50,
       71,
       84
+    ],
+    "links": [
+      {
+        "name": "U.S. Environmental Protection Agency Regulatory Background",
+        "url": "https://www.epa.gov/biosolids/biosolids-laws-and-regulations"
+      },
+      {
+        "name": "Preparation Guide",
+        "url": "https://www.epa.gov/sites/production/files/2015-05/documents/a_plain_english_guide_to_the_epa_part_503_biosolids_rule.pdf"
+      },
+      {
+        "name": "Statistical Support Documentation",
+        "url": "https://www.epa.gov/sites/production/files/2015-04/documents/statistical_support_document_development_of_round_2_biosolids_use_or_disposal_regulations_dioxins_april_2002.pdf"
+      },
+      {
+        "name": "Statistical Survey Methods",
+        "url": "https://www.epa.gov/biosolids/sewage-sludge-surveys"
+      }
     ]
   },
   {
@@ -80,6 +120,16 @@
       33,
       38,
       85
+    ],
+    "links": [
+      {
+        "name": "U.S. Environmental Protection Agency Regulatory Background",
+        "url": "https://www.epa.gov/controlling-air-pollution-oil-and-natural-gas-industry"
+      },
+      {
+        "name": "Analysis on Proposed NSPS and Amendments to National Emissions Standards for Hazardous Air Pollutants for Oil and Natural Gas Industry",
+        "url": "http://www.epa.gov/ttn/ecas/regdata/RIAs/oilnaturalgasfinalria.pdf"
+      }
     ]
   },
   {
@@ -111,6 +161,16 @@
       51,
       53,
       57
+    ],
+    "links": [
+      {
+        "name": "U.S. Environmental Protection Agency Regulatory Background",
+        "url": "http://www.epa.gov/otaq/oceanvessels.htm"
+      },
+      {
+        "name": "U.S. Environmental Protection Agency Research and Analysis",
+        "url": "http://www.epa.gov/otaq/regs/nonroad/marine/ci/420r09019.pdf"
+      }
     ]
   },
   {
@@ -202,6 +262,16 @@
       84,
       85,
       88
+    ],
+    "links": [
+      {
+        "name": "U.S. Environmental Protection Agency Regulatory Background",
+        "url": "https://www.epa.gov/dwreginfo/ground-water-rule"
+      },
+      {
+        "name": "U.S. Environmental Protection Agency Research and Analysis",
+        "url": "https://www.epa.gov/sites/production/files/2015-10/documents/regulatory_impact_analysis_for_the_proposed_ground_water_rule.pdf"
+      }
     ]
   },
   {
@@ -256,6 +326,16 @@
       83,
       86,
       87
+    ],
+    "links": [
+      {
+        "name": "U.S. Environmental Protection Agency Regulatory Background",
+        "url": "https://www3.epa.gov/ttnecas1/regdata/RIAs/matsriafinal.pdf"
+      },
+      {
+        "name": "U.S. Environmental Protection Agency Research and Analysis",
+        "url": "https://www.epa.gov/mercury/resources-mercury-science-and-research"
+      }
     ]
   },
   {
@@ -289,13 +369,23 @@
       54,
       59,
       85
+    ],
+    "links": [
+      {
+        "name": "U.S. Environmental Protection Agency Regulatory Background",
+        "url": "https://www.epa.gov/stationary-sources-air-pollution/clean-air-act-guidelines-and-standards-waste-management"
+      },
+      {
+        "name": "U.S. Environmental Protection Agency Research and Analysis",
+        "url": "https://www.epa.gov/smm/advancing-sustainable-materials-management-facts-and-figures"
+      }
     ]
   },
   {
     "issue_id": 8,
     "lang": "en",
     "name": "Municipal Nutrient Removal",
-    "abstract": "One of the major concerns regarding constituents in municipal wastewater treatment plant discharges is the concentration of nutrient compounds, in particular nitrogen and phosphorus. Nutrients stimulate the growth of microorganisms (including algae) and other aquatic vegetation in receiving waters, leading to decreased oxygen levels. Excess nutrients are a significant water quality concern in many of the nationÕs waters and a leading cause of impairment of designated uses. Wastewater treatment facilities are increasingly being required to address this issue by implementing treatment processes that reduce effluent nutrient concentrations to levels that regulators deem sufficiently protective of the environment.",
+    "abstract": "One of the major concerns regarding constituents in municipal wastewater treatment plant discharges is the concentration of nutrient compounds, in particular nitrogen and phosphorus. Nutrients stimulate the growth of microorganisms (including algae) and other aquatic vegetation in receiving waters, leading to decreased oxygen levels. Excess nutrients are a significant water quality concern in many of the nations waters and a leading cause of impairment of designated uses. Wastewater treatment facilities are increasingly being required to address this issue by implementing treatment processes that reduce effluent nutrient concentrations to levels that regulators deem sufficiently protective of the environment.",
     "regulation_ids": [
       1
     ],
@@ -376,6 +466,20 @@
       84,
       85,
       88
+    ],
+    "links": [
+      {
+        "name": "U.S. Environmental Protection Agency Regulatory Background",
+        "url": "https://www.epa.gov/laws-regulations/summary-clean-water-act"
+      },
+      {
+        "name": "Municipal Nutrient Removal Technologies Reference Document - Volume 1",
+        "url": "https://nepis.epa.gov/Exe/ZyNET.exe/P100GE8B.TXT?ZyActionD=ZyDocument&Client=EPA&Index=2006+Thru+2010&Docs=&Query=&Time=&EndTime=&SearchMethod=1&TocRestrict=n&Toc=&TocEntry=&QField=&QFieldYear=&QFieldMonth=&QFieldDay=&IntQFieldOp=0&ExtQFieldOp=0&XmlQuery=&File=D%3A%5Czyfiles%5CIndex%20Data%5C06thru10%5CTxt%5C00000033%5CP100GE8B.txt&User=ANONYMOUS&Password=anonymous&SortMethod=h%7C-&MaximumDocuments=1&FuzzyDegree=0&ImageQuality=r75g8/r75g8/x150y150g16/i425&Display=hpfr&DefSeekPage=x&SearchBack=ZyActionL&Back=ZyActionS&BackDesc=Results%20page&MaximumPages=1&ZyEntry=1&SeekPage=x&ZyPURL"
+      },
+      {
+        "name": "Municipal Nutrient Removal Technologies Reference Document - Volume 2",
+        "url": "https://nepis.epa.gov/Exe/ZyPURL.cgi?Dockey=P100PJ73.txt"
+      }
     ]
   },
   {
@@ -409,6 +513,16 @@
       57,
       76,
       81
+    ],
+    "links": [
+      {
+        "name": "U.S. Environmental Protection Agency Regulatory Background",
+        "url": "https://www3.epa.gov/otaq/nonroad-diesel.htm#regs"
+      },
+      {
+        "name": "U.S. Environmental Protection Agency Research and Analysis",
+        "url": "http://www.gpo.gov/fdsys/pkg/FR-2012-08-16/pdf/2012-16806.pdf"
+      }
     ]
   },
   {
@@ -430,6 +544,16 @@
       25,
       29,
       33
+    ],
+    "links": [
+      {
+        "name": "U.S. Environmental Protection Agency Regulatory Background",
+        "url": "https://www3.epa.gov/region1/airquality/nox.html"
+      },
+      {
+        "name": "Economic Impact Analysis for Proposed Revision of Standards of Performance",
+        "url": "https://nepis.epa.gov/Exe/ZyNET.exe/9100911O.TXT?ZyActionD=ZyDocument&Client=EPA&Index=2000+Thru+2005&Docs=&Query=&Time=&EndTime=&SearchMethod=1&TocRestrict=n&Toc=&TocEntry=&QField=&QFieldYear=&QFieldMonth=&QFieldDay=&IntQFieldOp=0&ExtQFieldOp=0&XmlQuery=&File=D%3A%5Czyfiles%5CIndex%20Data%5C00thru05%5CTxt%5C00000023%5C9100911O.txt&User=ANONYMOUS&Password=anonymous&SortMethod=h%7C-&MaximumDocuments=1&FuzzyDegree=0&ImageQuality=r75g8/r75g8/x150y150g16/i425&Display=hpfr&DefSeekPage=x&SearchBack=ZyActionL&Back=ZyActionS&BackDesc=Results%20page&MaximumPages=1&ZyEntry=1&SeekPage=x&ZyPURL#"
+      }
     ]
   },
   {
@@ -461,6 +585,20 @@
       71,
       78,
       89
+    ],
+    "links": [
+      {
+        "name": "U.S. Environmental Protection Agency Regulatory Background",
+        "url": "https://www.epa.gov/eg"
+      },
+      {
+        "name": "Report on the Performance of Secondary Treatment Technology",
+        "url": "http://www.epa.gov/npdes/pubs/npdes_secondary_treatment_report_march2013.pdf"
+      },
+      {
+        "name": "Decision Memorandum Regarding Non-uniform Secondary Treatment Standards",
+        "url": "http://www.epa.gov/npdes/pubs/ow_shapiro_nrdcpetition.pdf"
+      }
     ]
   },
   {
@@ -484,6 +622,16 @@
       16,
       33,
       59
+    ],
+    "links": [
+      {
+        "name": "U.S. Environmental Protection Agency Regulatory Background",
+        "url": "https://archive.epa.gov/epawaste/hazard/web/html/laws-2.html"
+      },
+      {
+        "name": "U.S. Environmental Protection Agency Research and Analysis",
+        "url": "https://www.epa.gov/hw/universal-waste"
+      }
     ]
   }
 ]
